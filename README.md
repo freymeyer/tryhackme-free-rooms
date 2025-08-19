@@ -44,6 +44,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 | **[Reverse Engineering](#reverse-engineering)**   |     **10**      |                           |
 | **[Malware Analysis](#malware-analysis)**         |      **8**      |                           |
 | **[Privilege Escalation](#privesc)**              |     **13**      |                           |
+| **[Artificial Intelligence](#ai)**                |     **1**       |                           |
 | **[Windows](#windows)**                           |      **9**      |                           |
 | **[Active Directory](#active-directory)**         |      **6**      |                           |
 | **[PCAP Analysis](#pcap-analysis)**               |      **4**      |                           |
@@ -442,8 +443,13 @@ In case you need deeper study into Linux read follow these:
 - [TryHackMe | c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
 - [TryHackMe | Pickle Rick](https://tryhackme.com/room/picklerick)
 
+## AI
+- [TryHackMe | AI/ML Security Threats](https://tryhackme.com/room/aimlsecuritythreats)
+
 ## Windows
 
+- [TryHackMe | Windows Logging for SOC](https://tryhackme.com/room/windowsloggingforsoc)
+- [TryHackMe | Windows Threat Detection 1](https://tryhackme.com/room/windowsthreatdetection1)
 - [TryHackMe | XDR: Introduction](https://tryhackme.com/room/xdrintroduction)
 - [TryHackMe | Windows Incident Surface](https://tryhackme.com/r/room/winincidentsurface)
 - [TryHackMe | Registry Persistence Detection](https://tryhackme.com/room/registrypersistencedetection)
@@ -480,6 +486,8 @@ In case you need deeper study into Linux read follow these:
 - [TryHackMe | Intro To Pwntools](https://tryhackme.com/room/introtopwntools)
 
 ## Easy CTF
+- [TryHackMe | Oracle 9](https://tryhackme.com/room/oracle9)
+- [TryHackMe | Soupedecode 01](tryhackme.com/room/soupedecode01)
 - [TryHackMe | Oracle 9](https://tryhackme.com/room/oracle9)
 - [TryHackMe | Billing](https://tryhackme.com/room/billing)
 - [TryHackMe | Light](https://tryhackme.com/room/lightroom)
@@ -827,6 +835,10 @@ In case you need deeper study into Linux read follow these:
 
 ## Hard CTF
 
+- [TryHackMe | Event Horizon](https://tryhackme.com/room/eventhorizonroom)
+- [TryHackMe | Contrabando](https://tryhackme.com/room/contrabando)
+- [TryHackMe | Directory](https://tryhackme.com/room/directorydfirroom)
+- [TryHackMe | Honeynet Collapse CTF](https://tryhackme.com/room/honeynet-collapse)
 - [TryHackMe | Moebius](https://tryhackme.com/room/moebius)
 - [TryHackMe | Rabbit Hole](https://tryhackme.com/r/room/rabbitholeqq)
 - [TryHackMe | Mountaineer](https://tryhackme.com/r/room/mountaineerlinux)
