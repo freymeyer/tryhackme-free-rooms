@@ -44,9 +44,9 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 | **[Reverse Engineering](#reverse-engineering)**   |     **10**      |
 | **[Malware Analysis](#malware-analysis)**         |      **8**      |
 | **[Privilege Escalation](#privesc)**              |     **13**      |
-| **[Artificial Intelligence](#ai)**                |     **1**       |
+| **[Artificial Intelligence](#ai)**                |      **1**      |
 | **[Windows](#windows)**                           |      **9**      |
-| **[Active Directory](#active-directory)**         |      **6**      |
+| **[Active Directory](#active-directory)**         |      **7**      |
 | **[PCAP Analysis](#pcap-analysis)**               |      **4**      |
 | **[Buffer Overflow](#bufferoverflow)**            |      **4**      |
 | **[Easy CTF](#easy-ctf)**                         |     **52**      |
@@ -55,7 +55,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 | **[Misc](#misc)**                                 |     **40**      |
 | **[Special Events](#special-events)**             |     **10**      |
 | **[Container Security](#container-security)**     |      **2**      |
-| **Total Rooms:**                                  |    **>= 392**   |
+| **Total Rooms:**                                  |   **>= 393**    |
 
 ## Intro Rooms
 
@@ -463,6 +463,7 @@ In case you need deeper study into Linux read follow these:
 
 ## Active Directory
 
+- [ ] [TryHackMe | Active Directory Basics](https://tryhackme.com/room/winadbasics)
 - [ ] [TryHackMe | AD: Basic Enumeration](https://tryhackme.com/room/adbasicenumeration)
 - [ ] [TryHackMe | Active Directory Hardening](https://tryhackme.com/room/activedirectoryening)
 - [ ] [TryHackMe | Attacktive Directory](https://tryhackme.com/room/attacktivedirectory)
