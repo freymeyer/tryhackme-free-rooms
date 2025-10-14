@@ -148,6 +148,8 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Networking
 
+- [ ] [TryHackMe | Network Security Essentials](https://tryhackme.com/room/networksecurityessentials)
+- [ ] [TryHackMe | Network Discovery Detection](https://tryhackme.com/room/networkdiscoverydetection)
 - [ ] [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
 - [ ] [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
 - [ ] [TryHackMe | Networking](https://tryhackme.com/room/bpnetworking)
@@ -249,6 +251,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Forensics
 
+- [ ] [TryHackMe | Linux Threat Detection 1](https://tryhackme.com/room/linuxthreatdetection1)
 - [ ] [TryHackMe | AppSec IR](https://tryhackme.com/room/appsecir)
 - [ ] [TryHackMe | Linux Logging for SOC](https://tryhackme.com/room/linuxloggingforsoc)
 - [ ] [TryHackMe | SOC Role in Blue Team](https://tryhackme.com/room/socroleinblueteam)
