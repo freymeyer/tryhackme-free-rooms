@@ -3,22 +3,11 @@
 Hey people, here's a list of **390+ Free TryHackMe rooms** to start learning hacking. I have arranged & compiled them according to different topics so that you can start hacking right now and also!
 All the rooms herein, are absolutely free. ATTACK!!
 
-## Maintainer
-
-> **_This repository is maintained by [ winterrdog ](https://github.com/winterrdog/). For any suggestion feel free to reach out to [me.](https://t.me/winterrdog)_**
-
 ## NEWS
 
 <!-- Hey cyber-hard guys, no news for now. Just go hard at your grind each second of the day -->
 
-In case you are interested in playing to win, here is something for you: [Hack2Win: How you can grab extra tickets](https://tryhackme.com/room/hack2win). If you do not have a TryHackMe account yet, signup [here](https://tryhackme.com/invite/winterrdog).
-
-## HOW YOU CAN SUPPORT
-
-If you genuinely feel like this project helped you a lot, you can always send your appreciation _anonymously_ to either one of these wallets:
-
-- BTC: `17duzuYcv1QRDojfvmFVFowrKBe9EyQ1Bo`
-- USDT: `TWSv2CmzZ9Xgp8j8PwfTDZ329CXJPokpHH`
+In case you are interested in playing to win, here is something for you: [Hack2Win: How you can grab extra tickets](https://tryhackme.com/room/hack2win). If you do not have a TryHackMe account yet, signup [here](https://tryhackme.com/invite/FreyM).
 
 ## Table of Contents
 
