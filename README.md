@@ -369,9 +369,8 @@ In case you are interested in playing to win, here is something for you: [Hack2W
 
 ## Easy CTF
 
-- [ ] [TryHackMe | Oracle 9](https://tryhackme.com/room/oracle9)
+- [x] [TryHackMe | Oracle 9](https://tryhackme.com/room/oracle9)
 - [ ] [TryHackMe | Soupedecode 01](tryhackme.com/room/soupedecode01)
-- [ ] [TryHackMe | Oracle 9](https://tryhackme.com/room/oracle9)
 - [ ] [TryHackMe | Billing](https://tryhackme.com/room/billing)
 - [ ] [TryHackMe | Light](https://tryhackme.com/room/lightroom)
 - [ ] [TryHackMe | Lo-Fi](https://tryhackme.com/room/lofi)
