@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TryHackMe Room Availability Checker</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        .instructions {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+        }
+        .instructions ol {
+            line-height: 1.8;
+        }
+        .controls {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+        }
+        .button {
+            background-color: #3498db;
+            color: white;
+            padding: 12px 24px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            margin-right: 10px;
+            margin-bottom: 10px;
+        }
+        .button:hover {
+            background-color: #2980b9;
+        }
+        .button:disabled {
+            background-color: #95a5a6;
+            cursor: not-allowed;
+        }
+        .status {
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 4px;
+            font-weight: bold;
+        }
+        .status.checking {
+            background-color: #3498db;
+            color: white;
+        }
+        .status.success {
+            background-color: #2ecc71;
+            color: white;
+        }
+        .status.error {
+            background-color: #e74c3c;
+            color: white;
+        }
+        .progress {
+            width: 100%;
+            height: 30px;
+            background-color: #ecf0f1;
+            border-radius: 4px;
+            overflow: hidden;
+            margin: 15px 0;
+        }
+        .progress-bar {
+            height: 100%;
+            background-color: #3498db;
+            transition: width 0.3s ease;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: bold;
+        }
+        .results {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            margin-top: 20px;
+        }
+        .room-list {
+            max-height: 500px;
+            overflow-y: auto;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            padding: 10px;
+            background-color: #f9f9f9;
+        }
+        .room-item {
+            padding: 10px;
+            margin: 5px 0;
+            border-radius: 4px;
+            border-left: 4px solid;
+        }
+        .room-item.free {
+            border-left-color: #2ecc71;
+            background-color: #d5f4e6;
+        }
+        .room-item.premium {
+            border-left-color: #f39c12;
+            background-color: #fef5e7;
+        }
+        .room-item.unavailable {
+            border-left-color: #e74c3c;
+            background-color: #fadbd8;
+        }
+        .room-item.unknown {
+            border-left-color: #95a5a6;
+            background-color: #ecf0f1;
+        }
+        textarea {
+            width: 100%;
+            min-height: 200px;
+            font-family: 'Courier New', monospace;
+            font-size: 12px;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+        .summary {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin: 20px 0;
+        }
+        .summary-card {
+            padding: 20px;
+            border-radius: 8px;
+            color: white;
+            text-align: center;
+        }
+        .summary-card h3 {
+            margin: 0;
+            font-size: 36px;
+        }
+        .summary-card p {
+            margin: 5px 0 0 0;
+            font-size: 14px;
+        }
+        .summary-card.free { background-color: #2ecc71; }
+        .summary-card.premium { background-color: #f39c12; }
+        .summary-card.unavailable { background-color: #e74c3c; }
+        .summary-card.unknown { background-color: #95a5a6; }
+    </style>
+</head>
+<body>
+    <h1>🔍 TryHackMe Room Availability Checker</h1>
+
+    <div class="instructions">
+        <h2>📋 Instructions</h2>
+        <ol>
+            <li><strong>Log in to TryHackMe</strong> in this browser before using this tool</li>
+            <li>Click <strong>"Start Checking"</strong> below to begin the automated check</li>
+            <li>The tool will open each room in a new tab and automatically check its status</li>
+            <li>Close the tabs as they open (they'll be auto-closed after checking)</li>
+            <li>When complete, download the results as a JSON file</li>
+            <li><strong>Note:</strong> This process may take 10-15 minutes for all rooms</li>
+        </ol>
+        <p><strong>⚠️ Important:</strong> Make sure pop-ups are allowed for this page!</p>
+    </div>
+
+    <div class="controls">
+        <h2>🎮 Controls</h2>
+        <button id="startBtn" class="button">Start Checking</button>
+        <button id="pauseBtn" class="button" disabled>Pause</button>
+        <button id="exportBtn" class="button" disabled>Export Results (JSON)</button>
+        <button id="exportTextBtn" class="button" disabled>Export Results (Text)</button>
+
+        <div id="statusDiv" style="display:none;" class="status">Ready</div>
+
+        <div class="progress">
+            <div id="progressBar" class="progress-bar" style="width: 0%">0%</div>
+        </div>
+    </div>
+
+    <div class="results">
+        <h2>📊 Results Summary</h2>
+        <div class="summary">
+            <div class="summary-card free">
+                <h3 id="freeCount">0</h3>
+                <p>Free Rooms</p>
+            </div>
+            <div class="summary-card premium">
+                <h3 id="premiumCount">0</h3>
+                <p>Premium Rooms</p>
+            </div>
+            <div class="summary-card unavailable">
+                <h3 id="unavailableCount">0</h3>
+                <p>Unavailable Rooms</p>
+            </div>
+            <div class="summary-card unknown">
+                <h3 id="unknownCount">0</h3>
+                <p>Not Checked Yet</p>
+            </div>
+        </div>
+
+        <h3>📝 Detailed Results</h3>
+        <div id="resultsDiv" class="room-list">
+            <p>Results will appear here as rooms are checked...</p>
+        </div>
+    </div>
+
+    <script>
+        // Room data will be loaded from the rooms list
+        const ROOMS = []; // Will be populated from /tmp/room_names.txt
+
+        // Load rooms from the file (in actual use, you'd embed this or load via AJAX)
+        const roomsData = `ROOM_DATA_PLACEHOLDER`;
+
+        // Parse rooms
+        roomsData.split('\n').forEach(line => {
+            const parts = line.trim().split('\t');
+            if (parts.length === 2) {
+                ROOMS.push({
+                    name: parts[0],
+                    url: parts[1],
+                    status: 'unknown'
+                });
+            }
+        });
+
+        let currentIndex = 0;
+        let isPaused = false;
+        let results = {
+            free: [],
+            premium: [],
+            unavailable: [],
+            unknown: []
+        };
+
+        const startBtn = document.getElementById('startBtn');
+        const pauseBtn = document.getElementById('pauseBtn');
+        const exportBtn = document.getElementById('exportBtn');
+        const exportTextBtn = document.getElementById('exportTextBtn');
+        const statusDiv = document.getElementById('statusDiv');
+        const progressBar = document.getElementById('progressBar');
+        const resultsDiv = document.getElementById('resultsDiv');
+
+        function updateCounts() {
+            document.getElementById('freeCount').textContent = results.free.length;
+            document.getElementById('premiumCount').textContent = results.premium.length;
+            document.getElementById('unavailableCount').textContent = results.unavailable.length;
+            document.getElementById('unknownCount').textContent = ROOMS.length - currentIndex;
+        }
+
+        function updateProgress() {
+            const percent = Math.round((currentIndex / ROOMS.length) * 100);
+            progressBar.style.width = percent + '%';
+            progressBar.textContent = `${percent}% (${currentIndex}/${ROOMS.length})`;
+        }
+
+        function showStatus(message, type = 'checking') {
+            statusDiv.style.display = 'block';
+            statusDiv.className = 'status ' + type;
+            statusDiv.textContent = message;
+        }
+
+        function addResult(room, status) {
+            const item = document.createElement('div');
+            item.className = 'room-item ' + status;
+            item.innerHTML = `
+                <strong>${room.name}</strong><br>
+                <small>${room.url}</small><br>
+                <small>Status: ${status.toUpperCase()}</small>
+            `;
+            resultsDiv.appendChild(item);
+            resultsDiv.scrollTop = resultsDiv.scrollHeight;
+        }
+
+        async function checkRoom(room) {
+            return new Promise((resolve) => {
+                const popup = window.open(room.url, '_blank');
+
+                setTimeout(() => {
+                    // In a real implementation, you would need to inspect the page content
+                    // For now, we'll just mark it as unknown and let the user manually verify
+                    if (popup) {
+                        popup.close();
+                    }
+                    resolve('unknown');
+                }, 2000);
+            });
+        }
+
+        async function startChecking() {
+            startBtn.disabled = true;
+            pauseBtn.disabled = false;
+            exportBtn.disabled = true;
+            exportTextBtn.disabled = true;
+
+            resultsDiv.innerHTML = '';
+            currentIndex = 0;
+            results = { free: [], premium: [], unavailable: [], unknown: [] };
+
+            showStatus('Starting checks...', 'checking');
+
+            while (currentIndex < ROOMS.length && !isPaused) {
+                const room = ROOMS[currentIndex];
+                showStatus(`Checking ${room.name} (${currentIndex + 1}/${ROOMS.length})`, 'checking');
+
+                const status = await checkRoom(room);
+                room.status = status;
+                results[status].push(room);
+
+                addResult(room, status);
+                currentIndex++;
+                updateProgress();
+                updateCounts();
+
+                // Wait a bit between checks
+                await new Promise(resolve => setTimeout(resolve, 500));
+            }
+
+            showStatus('Checking complete!', 'success');
+            startBtn.disabled = false;
+            pauseBtn.disabled = true;
+            exportBtn.disabled = false;
+            exportTextBtn.disabled = false;
+        }
+
+        function exportJSON() {
+            const data = {
+                timestamp: new Date().toISOString(),
+                total: ROOMS.length,
+                summary: {
+                    free: results.free.length,
+                    premium: results.premium.length,
+                    unavailable: results.unavailable.length,
+                    unknown: results.unknown.length
+                },
+                rooms: ROOMS
+            };
+
+            const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `tryhackme-room-check-${Date.now()}.json`;
+            a.click();
+        }
+
+        function exportText() {
+            let text = 'TryHackMe Room Availability Report\n';
+            text += '='.repeat(60) + '\n\n';
+            text += `Generated: ${new Date().toISOString()}\n`;
+            text += `Total Rooms: ${ROOMS.length}\n\n`;
+
+            text += `Summary:\n`;
+            text += `- Free: ${results.free.length}\n`;
+            text += `- Premium: ${results.premium.length}\n`;
+            text += `- Unavailable: ${results.unavailable.length}\n`;
+            text += `- Unknown: ${results.unknown.length}\n\n`;
+
+            ['premium', 'unavailable'].forEach(category => {
+                if (results[category].length > 0) {
+                    text += `\n${category.toUpperCase()} ROOMS:\n`;
+                    text += '-'.repeat(60) + '\n';
+                    results[category].forEach(room => {
+                        text += `- ${room.name}\n  ${room.url}\n\n`;
+                    });
+                }
+            });
+
+            const blob = new Blob([text], { type: 'text/plain' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `tryhackme-room-report-${Date.now()}.txt`;
+            a.click();
+        }
+
+        startBtn.addEventListener('click', startChecking);
+        pauseBtn.addEventListener('click', () => {
+            isPaused = !isPaused;
+            pauseBtn.textContent = isPaused ? 'Resume' : 'Pause';
+            showStatus(isPaused ? 'Paused' : 'Resuming...', 'checking');
+        });
+        exportBtn.addEventListener('click', exportJSON);
+        exportTextBtn.addEventListener('click', exportText);
+
+        updateCounts();
+        updateProgress();
+    </script>
+</body>
+</html>

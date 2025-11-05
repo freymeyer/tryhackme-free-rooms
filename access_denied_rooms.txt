@@ -1,0 +1,2184 @@
+TryHackMe Rooms with Access Issues
+============================================================
+Generated: 2025-11-05 00:30:01
+Total errors: 544
+
+Note: These rooms returned errors or were blocked.
+Many 403 errors may indicate rate limiting or need for authentication.
+
+- 0day
+  URL: https://tryhackme.com/room/0day
+  Status: Access Denied
+
+- 25daysofchristmas
+  URL: https://tryhackme.com/room/25daysofchristmas
+  Status: Access Denied
+
+- 4th3n4
+  URL: https://tryhackme.com/room/4th3n4
+  Status: Access Denied
+
+- HackfinityBattle
+  URL: https://tryhackme.com/room/HackfinityBattle
+  Status: Access Denied
+
+- activedirectoryening
+  URL: https://tryhackme.com/room/activedirectoryening
+  Status: Access Denied
+
+- activerecon
+  URL: https://tryhackme.com/room/activerecon
+  Status: Access Denied
+
+- adana
+  URL: https://tryhackme.com/room/adana
+  Status: Access Denied
+
+- adbasicenumeration
+  URL: https://tryhackme.com/room/adbasicenumeration
+  Status: Access Denied
+
+- advancedsqlinjection
+  URL: https://tryhackme.com/room/advancedsqlinjection
+  Status: Access Denied
+
+- adventofcyber2
+  URL: https://tryhackme.com/room/adventofcyber2
+  Status: Access Denied
+
+- adventofcyber2023
+  URL: https://tryhackme.com/room/adventofcyber2023
+  Status: Access Denied
+
+- adventofcyber2024
+  URL: https://tryhackme.com/room/adventofcyber2024
+  Status: Access Denied
+
+- adventofcyber23sidequest
+  URL: https://tryhackme.com/room/adventofcyber23sidequest
+  Status: Access Denied
+
+- adventofcyber3
+  URL: https://tryhackme.com/room/adventofcyber3
+  Status: Access Denied
+
+- adventofcyber4
+  URL: https://tryhackme.com/room/adventofcyber4
+  Status: Access Denied
+
+- agentsudoctf
+  URL: https://tryhackme.com/room/agentsudoctf
+  Status: Access Denied
+
+- aimlsecuritythreats
+  URL: https://tryhackme.com/room/aimlsecuritythreats
+  Status: Access Denied
+
+- airplane
+  URL: https://tryhackme.com/room/airplane
+  Status: Access Denied
+
+- allinonemj
+  URL: https://tryhackme.com/room/allinonemj
+  Status: Access Denied
+
+- androidhacking101
+  URL: https://tryhackme.com/room/androidhacking101
+  Status: Access Denied
+
+- anonymous
+  URL: https://tryhackme.com/room/anonymous
+  Status: Access Denied
+
+- anonymousplayground
+  URL: https://tryhackme.com/room/anonymousplayground
+  Status: Access Denied
+
+- anthem
+  URL: https://tryhackme.com/room/anthem
+  Status: Access Denied
+
+- apiwizardsbreach
+  URL: https://tryhackme.com/room/apiwizardsbreach
+  Status: Access Denied
+
+- appsecir
+  URL: https://tryhackme.com/room/appsecir
+  Status: Access Denied
+
+- apt28inceptiontheory
+  URL: https://tryhackme.com/room/apt28inceptiontheory
+  Status: Access Denied
+
+- archangel
+  URL: https://tryhackme.com/room/archangel
+  Status: Access Denied
+
+- aster
+  URL: https://tryhackme.com/room/aster
+  Status: Access Denied
+
+- atlas
+  URL: https://tryhackme.com/room/atlas
+  Status: Access Denied
+
+- attackerkb
+  URL: https://tryhackme.com/room/attackerkb
+  Status: Access Denied
+
+- attackingics1
+  URL: https://tryhackme.com/room/attackingics1
+  Status: Access Denied
+
+- attackingics2
+  URL: https://tryhackme.com/room/attackingics2
+  Status: Access Denied
+
+- attacktivedirectory
+  URL: https://tryhackme.com/room/attacktivedirectory
+  Status: Access Denied
+
+- autopsy2ze0
+  URL: https://tryhackme.com/room/autopsy2ze0
+  Status: Access Denied
+
+- avenger
+  URL: https://tryhackme.com/room/avenger
+  Status: Access Denied
+
+- axss
+  URL: https://tryhackme.com/room/axss
+  Status: Access Denied
+
+- backtrack
+  URL: https://tryhackme.com/room/backtrack
+  Status: Access Denied
+
+- badbyte
+  URL: https://tryhackme.com/room/badbyte
+  Status: Access Denied
+
+- bashscripting
+  URL: https://tryhackme.com/room/bashscripting
+  Status: Access Denied
+
+- basicmalwarere
+  URL: https://tryhackme.com/room/basicmalwarere
+  Status: Access Denied
+
+- basicpentestingjt
+  URL: https://tryhackme.com/room/basicpentestingjt
+  Status: Access Denied
+
+- battery
+  URL: https://tryhackme.com/room/battery
+  Status: Access Denied
+
+- beginnerpathintro
+  URL: https://tryhackme.com/room/beginnerpathintro
+  Status: Access Denied
+
+- billing
+  URL: https://tryhackme.com/room/billing
+  Status: Access Denied
+
+- binaryheaven
+  URL: https://tryhackme.com/room/binaryheaven
+  Status: Access Denied
+
+- biohazard
+  URL: https://tryhackme.com/room/biohazard
+  Status: Access Denied
+
+- blaster
+  URL: https://tryhackme.com/room/blaster
+  Status: Access Denied
+
+- blockroom
+  URL: https://tryhackme.com/room/blockroom
+  Status: Access Denied
+
+- blog
+  URL: https://tryhackme.com/room/blog
+  Status: Access Denied
+
+- blue
+  URL: https://tryhackme.com/room/blue
+  Status: Access Denied
+
+- blueprint
+  URL: https://tryhackme.com/room/blueprint
+  Status: Access Denied
+
+- boilerctf2
+  URL: https://tryhackme.com/room/boilerctf2
+  Status: Access Denied
+
+- bolt
+  URL: https://tryhackme.com/room/bolt
+  Status: Access Denied
+
+- boogeyman1
+  URL: https://tryhackme.com/room/boogeyman1
+  Status: Access Denied
+
+- bookstoreoc
+  URL: https://tryhackme.com/room/bookstoreoc
+  Status: Access Denied
+
+- borderlands
+  URL: https://tryhackme.com/room/borderlands
+  Status: Access Denied
+
+- bpnetworking
+  URL: https://tryhackme.com/room/bpnetworking
+  Status: Access Denied
+
+- bppenguin
+  URL: https://tryhackme.com/room/bppenguin
+  Status: Access Denied
+
+- bpsplunk
+  URL: https://tryhackme.com/room/bpsplunk
+  Status: Access Denied
+
+- bpvolatility
+  URL: https://tryhackme.com/room/bpvolatility
+  Status: Access Denied
+
+- brainpan
+  URL: https://tryhackme.com/room/brainpan
+  Status: Access Denied
+
+- breakingcryptothesimpleway
+  URL: https://tryhackme.com/room/breakingcryptothesimpleway
+  Status: Access Denied
+
+- breakit
+  URL: https://tryhackme.com/room/breakit
+  Status: Access Denied
+
+- breakmenu
+  URL: https://tryhackme.com/room/breakmenu
+  Status: Access Denied
+
+- breakoutthecage1
+  URL: https://tryhackme.com/room/breakoutthecage1
+  Status: Access Denied
+
+- breakrsa
+  URL: https://tryhackme.com/room/breakrsa
+  Status: Access Denied
+
+- broker
+  URL: https://tryhackme.com/room/broker
+  Status: Access Denied
+
+- brooklynninenine
+  URL: https://tryhackme.com/room/brooklynninenine
+  Status: Access Denied
+
+- bruteit
+  URL: https://tryhackme.com/room/bruteit
+  Status: Access Denied
+
+- bsidesgtanonforce
+  URL: https://tryhackme.com/room/bsidesgtanonforce
+  Status: Access Denied
+
+- bsidesgtdav
+  URL: https://tryhackme.com/room/bsidesgtdav
+  Status: Access Denied
+
+- bsidesgtdevelpy
+  URL: https://tryhackme.com/room/bsidesgtdevelpy
+  Status: Access Denied
+
+- bsidesgtlibrary
+  URL: https://tryhackme.com/room/bsidesgtlibrary
+  Status: Access Denied
+
+- bsidesgtthompson
+  URL: https://tryhackme.com/room/bsidesgtthompson
+  Status: Access Denied
+
+- bufferoverflowprep
+  URL: https://tryhackme.com/room/bufferoverflowprep
+  Status: Access Denied
+
+- bugged
+  URL: https://tryhackme.com/room/bugged
+  Status: Access Denied
+
+- burpsuitebasics
+  URL: https://tryhackme.com/room/burpsuitebasics
+  Status: Access Denied
+
+- burpsuiterepeater
+  URL: https://tryhackme.com/room/burpsuiterepeater
+  Status: Access Denied
+
+- bypassdisablefunctions
+  URL: https://tryhackme.com/room/bypassdisablefunctions
+  Status: Access Denied
+
+- bypassreallysimplesecurity
+  URL: https://tryhackme.com/room/bypassreallysimplesecurity
+  Status: Access Denied
+
+- c2carnage
+  URL: https://tryhackme.com/room/c2carnage
+  Status: Access Denied
+
+- c4ptur3th3fl4g
+  URL: https://tryhackme.com/room/c4ptur3th3fl4g
+  Status: Access Denied
+
+- cactus
+  URL: https://tryhackme.com/room/cactus
+  Status: Access Denied
+
+- capture
+  URL: https://tryhackme.com/room/capture
+  Status: Access Denied
+
+- capturereturns
+  URL: https://tryhackme.com/room/capturereturns
+  Status: Access Denied
+
+- carpediem1
+  URL: https://tryhackme.com/room/carpediem1
+  Status: Access Denied
+
+- caseb4dm755
+  URL: https://tryhackme.com/room/caseb4dm755
+  Status: Access Denied
+
+- catpictures
+  URL: https://tryhackme.com/room/catpictures
+  Status: Access Denied
+
+- catpictures2
+  URL: https://tryhackme.com/room/catpictures2
+  Status: Access Denied
+
+- catregex
+  URL: https://tryhackme.com/room/catregex
+  Status: Access Denied
+
+- cauldron
+  URL: https://tryhackme.com/room/cauldron
+  Status: Access Denied
+
+- ccghidra
+  URL: https://tryhackme.com/room/ccghidra
+  Status: Access Denied
+
+- ccradare2
+  URL: https://tryhackme.com/room/ccradare2
+  Status: Access Denied
+
+- ccstego
+  URL: https://tryhackme.com/room/ccstego
+  Status: Access Denied
+
+- cct2019
+  URL: https://tryhackme.com/room/cct2019
+  Status: Access Denied
+
+- certaindoom
+  URL: https://tryhackme.com/room/certaindoom
+  Status: Access Denied
+
+- chainingvulnerabilitiesZp
+  URL: https://tryhackme.com/room/chainingvulnerabilitiesZp
+  Status: Access Denied
+
+- cheesectfv10
+  URL: https://tryhackme.com/room/cheesectfv10
+  Status: Access Denied
+
+- cherryblossom
+  URL: https://tryhackme.com/room/cherryblossom
+  Status: Access Denied
+
+- chillhack
+  URL: https://tryhackme.com/room/chillhack
+  Status: Access Denied
+
+- chocolatefactory
+  URL: https://tryhackme.com/room/chocolatefactory
+  Status: Access Denied
+
+- chrome
+  URL: https://tryhackme.com/room/chrome
+  Status: Access Denied
+
+- chronicle
+  URL: https://tryhackme.com/room/chronicle
+  Status: Access Denied
+
+- cicada3301vol1
+  URL: https://tryhackme.com/room/cicada3301vol1
+  Status: Access Denied
+
+- classicpasswd
+  URL: https://tryhackme.com/room/classicpasswd
+  Status: Access Denied
+
+- clocky
+  URL: https://tryhackme.com/room/clocky
+  Status: Access Denied
+
+- clusterhardening
+  URL: https://tryhackme.com/room/clusterhardening
+  Status: Access Denied
+
+- cmess
+  URL: https://tryhackme.com/room/cmess
+  Status: Access Denied
+
+- cmspit
+  URL: https://tryhackme.com/room/cmspit
+  Status: Access Denied
+
+- colddboxeasy
+  URL: https://tryhackme.com/room/colddboxeasy
+  Status: Access Denied
+
+- coldvvars
+  URL: https://tryhackme.com/room/coldvvars
+  Status: Access Denied
+
+- compiled
+  URL: https://tryhackme.com/room/compiled
+  Status: Access Denied
+
+- compromisedwindowsanalysis
+  URL: https://tryhackme.com/room/compromisedwindowsanalysis
+  Status: Access Denied
+
+- confidential
+  URL: https://tryhackme.com/room/confidential
+  Status: Access Denied
+
+- confluence202322515
+  URL: https://tryhackme.com/room/confluence202322515
+  Status: Access Denied
+
+- contentdiscovery
+  URL: https://tryhackme.com/room/contentdiscovery
+  Status: Access Denied
+
+- contiransomwarehgh
+  URL: https://tryhackme.com/room/contiransomwarehgh
+  Status: Access Denied
+
+- contrabando
+  URL: https://tryhackme.com/room/contrabando
+  Status: Access Denied
+
+- convertmyvideo
+  URL: https://tryhackme.com/room/convertmyvideo
+  Status: Access Denied
+
+- cooctusadventures
+  URL: https://tryhackme.com/room/cooctusadventures
+  Status: Access Denied
+
+- couch
+  URL: https://tryhackme.com/room/couch
+  Status: Access Denied
+
+- cowboyhacker
+  URL: https://tryhackme.com/room/cowboyhacker
+  Status: Access Denied
+
+- crackthehash
+  URL: https://tryhackme.com/room/crackthehash
+  Status: Access Denied
+
+- crackthehashlevel2
+  URL: https://tryhackme.com/room/crackthehashlevel2
+  Status: Access Denied
+
+- creative
+  URL: https://tryhackme.com/room/creative
+  Status: Access Denied
+
+- critical
+  URL: https://tryhackme.com/room/critical
+  Status: Access Denied
+
+- crocccrew
+  URL: https://tryhackme.com/room/crocccrew
+  Status: Access Denied
+
+- crylo4a
+  URL: https://tryhackme.com/room/crylo4a
+  Status: Access Denied
+
+- cryptofailures
+  URL: https://tryhackme.com/room/cryptofailures
+  Status: Access Denied
+
+- cryptographybasics
+  URL: https://tryhackme.com/room/cryptographybasics
+  Status: Access Denied
+
+- cryptographyfordummies
+  URL: https://tryhackme.com/room/cryptographyfordummies
+  Status: Access Denied
+
+- cryptographyintro
+  URL: https://tryhackme.com/room/cryptographyintro
+  Status: Access Denied
+
+- csrfV2
+  URL: https://tryhackme.com/room/csrfV2
+  Status: Access Denied
+
+- ctf
+  URL: https://tryhackme.com/room/ctf
+  Status: Access Denied
+
+- ctfcollectionvol1
+  URL: https://tryhackme.com/room/ctfcollectionvol1
+  Status: Access Denied
+
+- ctfcollectionvol2
+  URL: https://tryhackme.com/room/ctfcollectionvol2
+  Status: Access Denied
+
+- ctfonepiece65
+  URL: https://tryhackme.com/room/ctfonepiece65
+  Status: Access Denied
+
+- customtoolingpython
+  URL: https://tryhackme.com/room/customtoolingpython
+  Status: Access Denied
+
+- cve202141773
+  URL: https://tryhackme.com/room/cve202141773
+  Status: Access Denied
+
+- cve202338408
+  URL: https://tryhackme.com/room/cve202338408
+  Status: Access Denied
+
+- cyberchefbasics
+  URL: https://tryhackme.com/room/cyberchefbasics
+  Status: Access Denied
+
+- cybercrafted
+  URL: https://tryhackme.com/room/cybercrafted
+  Status: Access Denied
+
+- cyberkillchain
+  URL: https://tryhackme.com/room/cyberkillchain
+  Status: Access Denied
+
+- cyberlensp6
+  URL: https://tryhackme.com/room/cyberlensp6
+  Status: Access Denied
+
+- cyberweek2021
+  URL: https://tryhackme.com/room/cyberweek2021
+  Status: Access Denied
+
+- cyborgt8
+  URL: https://tryhackme.com/room/cyborgt8
+  Status: Access Denied
+
+- dailybugle
+  URL: https://tryhackme.com/room/dailybugle
+  Status: Access Denied
+
+- davesblog
+  URL: https://tryhackme.com/room/davesblog
+  Status: Access Denied
+
+- debug
+  URL: https://tryhackme.com/room/debug
+  Status: Access Denied
+
+- dejavu
+  URL: https://tryhackme.com/room/dejavu
+  Status: Access Denied
+
+- detectingwebattacks
+  URL: https://tryhackme.com/room/detectingwebattacks
+  Status: Access Denied
+
+- dfirprocesslegalconsiderations
+  URL: https://tryhackme.com/room/dfirprocesslegalconsiderations
+  Status: Access Denied
+
+- directorydfirroom
+  URL: https://tryhackme.com/room/directorydfirroom
+  Status: Access Denied
+
+- dirtypipe
+  URL: https://tryhackme.com/room/dirtypipe
+  Status: Access Denied
+
+- django
+  URL: https://tryhackme.com/room/django
+  Status: Access Denied
+
+- dllhijacking
+  URL: https://tryhackme.com/room/dllhijacking
+  Status: Access Denied
+
+- dnsindetail
+  URL: https://tryhackme.com/room/dnsindetail
+  Status: Access Denied
+
+- dnsmanipulation
+  URL: https://tryhackme.com/room/dnsmanipulation
+  Status: Access Denied
+
+- dogcat
+  URL: https://tryhackme.com/room/dogcat
+  Status: Access Denied
+
+- dreaming
+  URL: https://tryhackme.com/room/dreaming
+  Status: Access Denied
+
+- dunklematerieptxc9
+  URL: https://tryhackme.com/room/dunklematerieptxc9
+  Status: Access Denied
+
+- dvwa
+  URL: https://tryhackme.com/room/dvwa
+  Status: Access Denied
+
+- easyctf
+  URL: https://tryhackme.com/room/easyctf
+  Status: Access Denied
+
+- easypeasyctf
+  URL: https://tryhackme.com/room/easypeasyctf
+  Status: Access Denied
+
+- encryptioncrypto101
+  URL: https://tryhackme.com/room/encryptioncrypto101
+  Status: Access Denied
+
+- enpass
+  URL: https://tryhackme.com/room/enpass
+  Status: Access Denied
+
+- enterprise
+  URL: https://tryhackme.com/room/enterprise
+  Status: Access Denied
+
+- enterprize
+  URL: https://tryhackme.com/room/enterprize
+  Status: Access Denied
+
+- enumerationbruteforce
+  URL: https://tryhackme.com/room/enumerationbruteforce
+  Status: Access Denied
+
+- envizon
+  URL: https://tryhackme.com/room/envizon
+  Status: Access Denied
+
+- erlangotpsshcve202532433
+  URL: https://tryhackme.com/room/erlangotpsshcve202532433
+  Status: Access Denied
+
+- eventhorizonroom
+  URL: https://tryhackme.com/room/eventhorizonroom
+  Status: Access Denied
+
+- eviction
+  URL: https://tryhackme.com/room/eviction
+  Status: Access Denied
+
+- extractedroom
+  URL: https://tryhackme.com/room/extractedroom
+  Status: Access Denied
+
+- fat32analysis
+  URL: https://tryhackme.com/room/fat32analysis
+  Status: Access Denied
+
+- ffuf
+  URL: https://tryhackme.com/room/ffuf
+  Status: Access Denied
+
+- fileandhashthreatintel
+  URL: https://tryhackme.com/room/fileandhashthreatintel
+  Status: Access Denied
+
+- filepathtraversal
+  URL: https://tryhackme.com/room/filepathtraversal
+  Status: Access Denied
+
+- flask
+  URL: https://tryhackme.com/room/flask
+  Status: Access Denied
+
+- flip
+  URL: https://tryhackme.com/room/flip
+  Status: Access Denied
+
+- forbusinessreasons
+  URL: https://tryhackme.com/room/forbusinessreasons
+  Status: Access Denied
+
+- forensicimaging
+  URL: https://tryhackme.com/room/forensicimaging
+  Status: Access Denied
+
+- forensics
+  URL: https://tryhackme.com/room/forensics
+  Status: Access Denied
+
+- forgottenimplant
+  URL: https://tryhackme.com/room/forgottenimplant
+  Status: Access Denied
+
+- fortress
+  URL: https://tryhackme.com/room/fortress
+  Status: Access Denied
+
+- furthernmap
+  URL: https://tryhackme.com/room/furthernmap
+  Status: Access Denied
+
+- fusioncorp
+  URL: https://tryhackme.com/room/fusioncorp
+  Status: Access Denied
+
+- gamebuzz
+  URL: https://tryhackme.com/room/gamebuzz
+  Status: Access Denied
+
+- gamingserver
+  URL: https://tryhackme.com/room/gamingserver
+  Status: Access Denied
+
+- gatekeeper
+  URL: https://tryhackme.com/room/gatekeeper
+  Status: Access Denied
+
+- geolocatingimages
+  URL: https://tryhackme.com/room/geolocatingimages
+  Status: Access Denied
+
+- ghizerctf
+  URL: https://tryhackme.com/room/ghizerctf
+  Status: Access Denied
+
+- gitandcrumpets
+  URL: https://tryhackme.com/room/gitandcrumpets
+  Status: Access Denied
+
+- githappens
+  URL: https://tryhackme.com/room/githappens
+  Status: Access Denied
+
+- gitlabcve20237028
+  URL: https://tryhackme.com/room/gitlabcve20237028
+  Status: Access Denied
+
+- glitch
+  URL: https://tryhackme.com/room/glitch
+  Status: Access Denied
+
+- goldeneye
+  URL: https://tryhackme.com/room/goldeneye
+  Status: Access Denied
+
+- googledorking
+  URL: https://tryhackme.com/room/googledorking
+  Status: Access Denied
+
+- greprtp
+  URL: https://tryhackme.com/room/greprtp
+  Status: Access Denied
+
+- h4cked
+  URL: https://tryhackme.com/room/h4cked
+  Status: Access Denied
+
+- hack2win
+  URL: https://tryhackme.com/room/hack2win
+  Status: Access Denied
+
+- hackermethodology
+  URL: https://tryhackme.com/room/hackermethodology
+  Status: Access Denied
+
+- hackernote
+  URL: https://tryhackme.com/room/hackernote
+  Status: Access Denied
+
+- hackerofthehill
+  URL: https://tryhackme.com/room/hackerofthehill
+  Status: Access Denied
+
+- hacksmartersecurity
+  URL: https://tryhackme.com/room/hacksmartersecurity
+  Status: Access Denied
+
+- harder
+  URL: https://tryhackme.com/room/harder
+  Status: Access Denied
+
+- haskhell
+  URL: https://tryhackme.com/room/haskhell
+  Status: Access Denied
+
+- hc0nchristmasctf
+  URL: https://tryhackme.com/room/hc0nchristmasctf
+  Status: Access Denied
+
+- hello
+  URL: https://tryhackme.com/room/hello
+  Status: Access Denied
+
+- hijack
+  URL: https://tryhackme.com/room/hijack
+  Status: Access Denied
+
+- hipflask
+  URL: https://tryhackme.com/room/hipflask
+  Status: Access Denied
+
+- historyofmalware
+  URL: https://tryhackme.com/room/historyofmalware
+  Status: Access Denied
+
+- honeynet-collapse
+  URL: https://tryhackme.com/room/honeynet-collapse
+  Status: Access Denied
+
+- hostedhypervisors
+  URL: https://tryhackme.com/room/hostedhypervisors
+  Status: Access Denied
+
+- howtousetryhackme
+  URL: https://tryhackme.com/room/howtousetryhackme
+  Status: Access Denied
+
+- http2requestsmuggling
+  URL: https://tryhackme.com/room/http2requestsmuggling
+  Status: Access Denied
+
+- httpindetail
+  URL: https://tryhackme.com/room/httpindetail
+  Status: Access Denied
+
+- httprequestsmuggling
+  URL: https://tryhackme.com/room/httprequestsmuggling
+  Status: Access Denied
+
+- hydra
+  URL: https://tryhackme.com/room/hydra
+  Status: Access Denied
+
+- hypervisorinternals
+  URL: https://tryhackme.com/room/hypervisorinternals
+  Status: Access Denied
+
+- ice
+  URL: https://tryhackme.com/room/ice
+  Status: Access Denied
+
+- identificationandscoping
+  URL: https://tryhackme.com/room/identificationandscoping
+  Status: Access Denied
+
+- ignite
+  URL: https://tryhackme.com/room/ignite
+  Status: Access Denied
+
+- inacave
+  URL: https://tryhackme.com/room/inacave
+  Status: Access Denied
+
+- incidentresponseprocess
+  URL: https://tryhackme.com/room/incidentresponseprocess
+  Status: Access Denied
+
+- industrial-intrusion
+  URL: https://tryhackme.com/room/industrial-intrusion
+  Status: Access Denied
+
+- inferno
+  URL: https://tryhackme.com/room/inferno
+  Status: Access Denied
+
+- insecurerandomness
+  URL: https://tryhackme.com/room/insecurerandomness
+  Status: Access Denied
+
+- intelcreationandcontainment
+  URL: https://tryhackme.com/room/intelcreationandcontainment
+  Status: Access Denied
+
+- internal
+  URL: https://tryhackme.com/room/internal
+  Status: Access Denied
+
+- introductiontocryptops
+  URL: https://tryhackme.com/room/introductiontocryptops
+  Status: Access Denied
+
+- introductiontoedrs
+  URL: https://tryhackme.com/room/introductiontoedrs
+  Status: Access Denied
+
+- introductiontothreathunting
+  URL: https://tryhackme.com/room/introductiontothreathunting
+  Status: Access Denied
+
+- intropocscripting
+  URL: https://tryhackme.com/room/intropocscripting
+  Status: Access Denied
+
+- introtocoldsystemforensics
+  URL: https://tryhackme.com/room/introtocoldsystemforensics
+  Status: Access Denied
+
+- introtodetectionengineering
+  URL: https://tryhackme.com/room/introtodetectionengineering
+  Status: Access Denied
+
+- introtodockerk8pdqk
+  URL: https://tryhackme.com/room/introtodockerk8pdqk
+  Status: Access Denied
+
+- introtoiac
+  URL: https://tryhackme.com/room/introtoiac
+  Status: Access Denied
+
+- introtolan
+  URL: https://tryhackme.com/room/introtolan
+  Status: Access Denied
+
+- introtologs
+  URL: https://tryhackme.com/room/introtologs
+  Status: Access Denied
+
+- introtonetworking
+  URL: https://tryhackme.com/room/introtonetworking
+  Status: Access Denied
+
+- introtopwntools
+  URL: https://tryhackme.com/room/introtopwntools
+  Status: Access Denied
+
+- introtoresearch
+  URL: https://tryhackme.com/room/introtoresearch
+  Status: Access Denied
+
+- introtox8664
+  URL: https://tryhackme.com/room/introtox8664
+  Status: Access Denied
+
+- investigatingwindows
+  URL: https://tryhackme.com/room/investigatingwindows
+  Status: Access Denied
+
+- investigatingwindows2
+  URL: https://tryhackme.com/room/investigatingwindows2
+  Status: Access Denied
+
+- investigatingwindows3
+  URL: https://tryhackme.com/room/investigatingwindows3
+  Status: Access Denied
+
+- iotintro
+  URL: https://tryhackme.com/room/iotintro
+  Status: Access Denied
+
+- ironcorp
+  URL: https://tryhackme.com/room/ironcorp
+  Status: Access Denied
+
+- irphilosophyethics
+  URL: https://tryhackme.com/room/irphilosophyethics
+  Status: Access Denied
+
+- irplaybooks
+  URL: https://tryhackme.com/room/irplaybooks
+  Status: Access Denied
+
+- iso27001
+  URL: https://tryhackme.com/room/iso27001
+  Status: Access Denied
+
+- jackofalltrades
+  URL: https://tryhackme.com/room/jackofalltrades
+  Status: Access Denied
+
+- jacobtheboss
+  URL: https://tryhackme.com/room/jacobtheboss
+  Status: Access Denied
+
+- javascriptbasics
+  URL: https://tryhackme.com/room/javascriptbasics
+  Status: Access Denied
+
+- jeff
+  URL: https://tryhackme.com/room/jeff
+  Status: Access Denied
+
+- jokerctf
+  URL: https://tryhackme.com/room/jokerctf
+  Status: Access Denied
+
+- joomify
+  URL: https://tryhackme.com/room/joomify
+  Status: Access Denied
+
+- jpgchat
+  URL: https://tryhackme.com/room/jpgchat
+  Status: Access Denied
+
+- juicydetails
+  URL: https://tryhackme.com/room/juicydetails
+  Status: Access Denied
+
+- jupyter101
+  URL: https://tryhackme.com/room/jupyter101
+  Status: Access Denied
+
+- justlooking
+  URL: https://tryhackme.com/room/justlooking
+  Status: Access Denied
+
+- jvmreverseengineering
+  URL: https://tryhackme.com/room/jvmreverseengineering
+  Status: Access Denied
+
+- k8sbestsecuritypractices
+  URL: https://tryhackme.com/room/k8sbestsecuritypractices
+  Status: Access Denied
+
+- k8sruntimesecurity
+  URL: https://tryhackme.com/room/k8sruntimesecurity
+  Status: Access Denied
+
+- kenobi
+  URL: https://tryhackme.com/room/kenobi
+  Status: Access Denied
+
+- kiba
+  URL: https://tryhackme.com/room/kiba
+  Status: Access Denied
+
+- kitty
+  URL: https://tryhackme.com/room/kitty
+  Status: Access Denied
+
+- kothfoodctf
+  URL: https://tryhackme.com/room/kothfoodctf
+  Status: Access Denied
+
+- kothhackers
+  URL: https://tryhackme.com/room/kothhackers
+  Status: Access Denied
+
+- kuberneteschalltdi2020
+  URL: https://tryhackme.com/room/kuberneteschalltdi2020
+  Status: Access Denied
+
+- lazyadmin
+  URL: https://tryhackme.com/room/lazyadmin
+  Status: Access Denied
+
+- learncyberin25days
+  URL: https://tryhackme.com/room/learncyberin25days
+  Status: Access Denied
+
+- learnowaspzap
+  URL: https://tryhackme.com/room/learnowaspzap
+  Status: Access Denied
+
+- learnssti
+  URL: https://tryhackme.com/room/learnssti
+  Status: Access Denied
+
+- lessonlearned
+  URL: https://tryhackme.com/room/lessonlearned
+  Status: Access Denied
+
+- lianyu
+  URL: https://tryhackme.com/room/lianyu
+  Status: Access Denied
+
+- lightroom
+  URL: https://tryhackme.com/room/lightroom
+  Status: Access Denied
+
+- linprivesc
+  URL: https://tryhackme.com/room/linprivesc
+  Status: Access Denied
+
+- linuxagency
+  URL: https://tryhackme.com/room/linuxagency
+  Status: Access Denied
+
+- linuxbackdoors
+  URL: https://tryhackme.com/room/linuxbackdoors
+  Status: Access Denied
+
+- linuxfilesystemanalysis
+  URL: https://tryhackme.com/room/linuxfilesystemanalysis
+  Status: Access Denied
+
+- linuxfunctionhooking
+  URL: https://tryhackme.com/room/linuxfunctionhooking
+  Status: Access Denied
+
+- linuxfundamentalspart1
+  URL: https://tryhackme.com/room/linuxfundamentalspart1
+  Status: Access Denied
+
+- linuxincidentsurface
+  URL: https://tryhackme.com/room/linuxincidentsurface
+  Status: Access Denied
+
+- linuxloggingforsoc
+  URL: https://tryhackme.com/room/linuxloggingforsoc
+  Status: Access Denied
+
+- linuxmodules
+  URL: https://tryhackme.com/room/linuxmodules
+  Status: Access Denied
+
+- linuxprivesc
+  URL: https://tryhackme.com/room/linuxprivesc
+  Status: Access Denied
+
+- linuxprivescarena
+  URL: https://tryhackme.com/room/linuxprivescarena
+  Status: Access Denied
+
+- linuxprocessanalysis
+  URL: https://tryhackme.com/room/linuxprocessanalysis
+  Status: Access Denied
+
+- linuxserverforensics
+  URL: https://tryhackme.com/room/linuxserverforensics
+  Status: Access Denied
+
+- linuxstrengthtraining
+  URL: https://tryhackme.com/room/linuxstrengthtraining
+  Status: Access Denied
+
+- linuxthreatdetection1
+  URL: https://tryhackme.com/room/linuxthreatdetection1
+  Status: Access Denied
+
+- lofi
+  URL: https://tryhackme.com/room/lofi
+  Status: Access Denied
+
+- loglesshunt
+  URL: https://tryhackme.com/room/loglesshunt
+  Status: Access Denied
+
+- lookback
+  URL: https://tryhackme.com/room/lookback
+  Status: Access Denied
+
+- lookingglass
+  URL: https://tryhackme.com/room/lookingglass
+  Status: Access Denied
+
+- lookup
+  URL: https://tryhackme.com/room/lookup
+  Status: Access Denied
+
+- looneytunes
+  URL: https://tryhackme.com/room/looneytunes
+  Status: Access Denied
+
+- lunizzctfnd
+  URL: https://tryhackme.com/room/lunizzctfnd
+  Status: Access Denied
+
+- m4tr1xexitdenied
+  URL: https://tryhackme.com/room/m4tr1xexitdenied
+  Status: Access Denied
+
+- macosforensicsartefacts
+  URL: https://tryhackme.com/room/macosforensicsartefacts
+  Status: Access Denied
+
+- macosforensicsbasics
+  URL: https://tryhackme.com/room/macosforensicsbasics
+  Status: Access Denied
+
+- madeyescastle
+  URL: https://tryhackme.com/room/madeyescastle
+  Status: Access Denied
+
+- madness
+  URL: https://tryhackme.com/room/madness
+  Status: Access Denied
+
+- magician
+  URL: https://tryhackme.com/room/magician
+  Status: Access Denied
+
+- malmalintroductory
+  URL: https://tryhackme.com/room/malmalintroductory
+  Status: Access Denied
+
+- malresearching
+  URL: https://tryhackme.com/room/malresearching
+  Status: Access Denied
+
+- malwareclassification
+  URL: https://tryhackme.com/room/malwareclassification
+  Status: Access Denied
+
+- marketplace
+  URL: https://tryhackme.com/room/marketplace
+  Status: Access Denied
+
+- mayhemroom
+  URL: https://tryhackme.com/room/mayhemroom
+  Status: Access Denied
+
+- mbrandgptanalysis
+  URL: https://tryhackme.com/room/mbrandgptanalysis
+  Status: Access Denied
+
+- meltdownexplained
+  URL: https://tryhackme.com/room/meltdownexplained
+  Status: Access Denied
+
+- memoryanalysisintroduction
+  URL: https://tryhackme.com/room/memoryanalysisintroduction
+  Status: Access Denied
+
+- memoryforensics
+  URL: https://tryhackme.com/room/memoryforensics
+  Status: Access Denied
+
+- metamorphosis
+  URL: https://tryhackme.com/room/metamorphosis
+  Status: Access Denied
+
+- metasploitintro
+  URL: https://tryhackme.com/room/metasploitintro
+  Status: Access Denied
+
+- microservicearchitectures
+  URL: https://tryhackme.com/room/microservicearchitectures
+  Status: Access Denied
+
+- mindgames
+  URL: https://tryhackme.com/room/mindgames
+  Status: Access Denied
+
+- misguidedghosts
+  URL: https://tryhackme.com/room/misguidedghosts
+  Status: Access Denied
+
+- mitre
+  URL: https://tryhackme.com/room/mitre
+  Status: Access Denied
+
+- mkingdom
+  URL: https://tryhackme.com/room/mkingdom
+  Status: Access Denied
+
+- mma
+  URL: https://tryhackme.com/room/mma
+  Status: Access Denied
+
+- mnemonic
+  URL: https://tryhackme.com/room/mnemonic
+  Status: Access Denied
+
+- mobileacquisition
+  URL: https://tryhackme.com/room/mobileacquisition
+  Status: Access Denied
+
+- moebius
+  URL: https://tryhackme.com/room/moebius
+  Status: Access Denied
+
+- monikerlink
+  URL: https://tryhackme.com/room/monikerlink
+  Status: Access Denied
+
+- motunui
+  URL: https://tryhackme.com/room/motunui
+  Status: Access Denied
+
+- mountaineerlinux
+  URL: https://tryhackme.com/room/mountaineerlinux
+  Status: Access Denied
+
+- mrrobot
+  URL: https://tryhackme.com/room/mrrobot
+  Status: Access Denied
+
+- musicalstego
+  URL: https://tryhackme.com/room/musicalstego
+  Status: Access Denied
+
+- mustacchio
+  URL: https://tryhackme.com/room/mustacchio
+  Status: Access Denied
+
+- nahamstore
+  URL: https://tryhackme.com/room/nahamstore
+  Status: Access Denied
+
+- nax
+  URL: https://tryhackme.com/room/nax
+  Status: Access Denied
+
+- nerdherd
+  URL: https://tryhackme.com/room/nerdherd
+  Status: Access Denied
+
+- networkdiscoverydetection
+  URL: https://tryhackme.com/room/networkdiscoverydetection
+  Status: Access Denied
+
+- networkingconcepts
+  URL: https://tryhackme.com/room/networkingconcepts
+  Status: Access Denied
+
+- networksecurityessentials
+  URL: https://tryhackme.com/room/networksecurityessentials
+  Status: Access Denied
+
+- nextjscve202529927
+  URL: https://tryhackme.com/room/nextjscve202529927
+  Status: Access Denied
+
+- ninjaskills
+  URL: https://tryhackme.com/room/ninjaskills
+  Status: Access Denied
+
+- nmap01
+  URL: https://tryhackme.com/room/nmap01
+  Status: Access Denied
+
+- nosqlinjectiontutorial
+  URL: https://tryhackme.com/room/nosqlinjectiontutorial
+  Status: Access Denied
+
+- ohsint
+  URL: https://tryhackme.com/room/ohsint
+  Status: Access Denied
+
+- opacity
+  URL: https://tryhackme.com/room/opacity
+  Status: Access Denied
+
+- openvas
+  URL: https://tryhackme.com/room/openvas
+  Status: Access Denied
+
+- openvpn
+  URL: https://tryhackme.com/room/openvpn
+  Status: Access Denied
+
+- oracle9
+  URL: https://tryhackme.com/room/oracle9
+  Status: Access Denied
+
+- overlayfs
+  URL: https://tryhackme.com/room/overlayfs
+  Status: Access Denied
+
+- overpass
+  URL: https://tryhackme.com/room/overpass
+  Status: Access Denied
+
+- overpass2hacked
+  URL: https://tryhackme.com/room/overpass2hacked
+  Status: Access Denied
+
+- overpass3hosting
+  URL: https://tryhackme.com/room/overpass3hosting
+  Status: Access Denied
+
+- owaspbrokenaccesscontrol
+  URL: https://tryhackme.com/room/owaspbrokenaccesscontrol
+  Status: Access Denied
+
+- owaspjuiceshop
+  URL: https://tryhackme.com/room/owaspjuiceshop
+  Status: Access Denied
+
+- owaspmutillidae
+  URL: https://tryhackme.com/room/owaspmutillidae
+  Status: Access Denied
+
+- owasptop10
+  URL: https://tryhackme.com/room/owasptop10
+  Status: Access Denied
+
+- owasptop102021
+  URL: https://tryhackme.com/room/owasptop102021
+  Status: Access Denied
+
+- papercut
+  URL: https://tryhackme.com/room/papercut
+  Status: Access Denied
+
+- parrotpost
+  URL: https://tryhackme.com/room/parrotpost
+  Status: Access Denied
+
+- passiverecon
+  URL: https://tryhackme.com/room/passiverecon
+  Status: Access Denied
+
+- paymentcollectors
+  URL: https://tryhackme.com/room/paymentcollectors
+  Status: Access Denied
+
+- peakhill
+  URL: https://tryhackme.com/room/peakhill
+  Status: Access Denied
+
+- pentestingfundamentals
+  URL: https://tryhackme.com/room/pentestingfundamentals
+  Status: Access Denied
+
+- phishinghiddeneye
+  URL: https://tryhackme.com/room/phishinghiddeneye
+  Status: Access Denied
+
+- physicalsecurityintro
+  URL: https://tryhackme.com/room/physicalsecurityintro
+  Status: Access Denied
+
+- picklerick
+  URL: https://tryhackme.com/room/picklerick
+  Status: Access Denied
+
+- pokemon
+  URL: https://tryhackme.com/room/pokemon
+  Status: Access Denied
+
+- polkit
+  URL: https://tryhackme.com/room/polkit
+  Status: Access Denied
+
+- poster
+  URL: https://tryhackme.com/room/poster
+  Status: Access Denied
+
+- postexploit
+  URL: https://tryhackme.com/room/postexploit
+  Status: Access Denied
+
+- preparation
+  URL: https://tryhackme.com/room/preparation
+  Status: Access Denied
+
+- principlesofsecurity
+  URL: https://tryhackme.com/room/principlesofsecurity
+  Status: Access Denied
+
+- printerhacking101
+  URL: https://tryhackme.com/room/printerhacking101
+  Status: Access Denied
+
+- prioritise
+  URL: https://tryhackme.com/room/prioritise
+  Status: Access Denied
+
+- probe
+  URL: https://tryhackme.com/room/probe
+  Status: Access Denied
+
+- profilesroom
+  URL: https://tryhackme.com/room/profilesroom
+  Status: Access Denied
+
+- psychobreak
+  URL: https://tryhackme.com/room/psychobreak
+  Status: Access Denied
+
+- publisher
+  URL: https://tryhackme.com/room/publisher
+  Status: Access Denied
+
+- pylonzf
+  URL: https://tryhackme.com/room/pylonzf
+  Status: Access Denied
+
+- pyrat
+  URL: https://tryhackme.com/room/pyrat
+  Status: Access Denied
+
+- pythonbasics
+  URL: https://tryhackme.com/room/pythonbasics
+  Status: Access Denied
+
+- pythonplayground
+  URL: https://tryhackme.com/room/pythonplayground
+  Status: Access Denied
+
+- ra
+  URL: https://tryhackme.com/room/ra
+  Status: Access Denied
+
+- rabbitholeqq
+  URL: https://tryhackme.com/room/rabbitholeqq
+  Status: Access Denied
+
+- rabbitstore
+  URL: https://tryhackme.com/room/rabbitstore
+  Status: Access Denied
+
+- raceconditions
+  URL: https://tryhackme.com/room/raceconditions
+  Status: Access Denied
+
+- racetrackbank
+  URL: https://tryhackme.com/room/racetrackbank
+  Status: Access Denied
+
+- raz0rblack
+  URL: https://tryhackme.com/room/raz0rblack
+  Status: Access Denied
+
+- recovery
+  URL: https://tryhackme.com/room/recovery
+  Status: Access Denied
+
+- redisl33t
+  URL: https://tryhackme.com/room/redisl33t
+  Status: Access Denied
+
+- redstoneonecarat
+  URL: https://tryhackme.com/room/redstoneonecarat
+  Status: Access Denied
+
+- registrypersistencedetection
+  URL: https://tryhackme.com/room/registrypersistencedetection
+  Status: Access Denied
+
+- relevant
+  URL: https://tryhackme.com/room/relevant
+  Status: Access Denied
+
+- reloaded
+  URL: https://tryhackme.com/room/reloaded
+  Status: Access Denied
+
+- resetui
+  URL: https://tryhackme.com/room/resetui
+  Status: Access Denied
+
+- retro
+  URL: https://tryhackme.com/room/retro
+  Status: Access Denied
+
+- revenge
+  URL: https://tryhackme.com/room/revenge
+  Status: Access Denied
+
+- reverseengineering
+  URL: https://tryhackme.com/room/reverseengineering
+  Status: Access Denied
+
+- reverselfiles
+  URL: https://tryhackme.com/room/reverselfiles
+  Status: Access Denied
+
+- revilcorp
+  URL: https://tryhackme.com/room/revilcorp
+  Status: Access Denied
+
+- rfirmware
+  URL: https://tryhackme.com/room/rfirmware
+  Status: Access Denied
+
+- road
+  URL: https://tryhackme.com/room/road
+  Status: Access Denied
+
+- robots
+  URL: https://tryhackme.com/room/robots
+  Status: Access Denied
+
+- rocket
+  URL: https://tryhackme.com/room/rocket
+  Status: Access Denied
+
+- roundcubecve202549113
+  URL: https://tryhackme.com/room/roundcubecve202549113
+  Status: Access Denied
+
+- rpmetasploit
+  URL: https://tryhackme.com/room/rpmetasploit
+  Status: Access Denied
+
+- rpnessusredux
+  URL: https://tryhackme.com/room/rpnessusredux
+  Status: Access Denied
+
+- rptmux
+  URL: https://tryhackme.com/room/rptmux
+  Status: Access Denied
+
+- rrootme
+  URL: https://tryhackme.com/room/rrootme
+  Status: Access Denied
+
+- rust
+  URL: https://tryhackme.com/room/rust
+  Status: Access Denied
+
+- rustscan
+  URL: https://tryhackme.com/room/rustscan
+  Status: Access Denied
+
+- safezone
+  URL: https://tryhackme.com/room/safezone
+  Status: Access Denied
+
+- sakura
+  URL: https://tryhackme.com/room/sakura
+  Status: Access Denied
+
+- sdlc
+  URL: https://tryhackme.com/room/sdlc
+  Status: Access Denied
+
+- searchlightosint
+  URL: https://tryhackme.com/room/searchlightosint
+  Status: Access Denied
+
+- searchskills
+  URL: https://tryhackme.com/room/searchskills
+  Status: Access Denied
+
+- securityengineerintro
+  URL: https://tryhackme.com/room/securityengineerintro
+  Status: Access Denied
+
+- securityfootage
+  URL: https://tryhackme.com/room/securityfootage
+  Status: Access Denied
+
+- servidae
+  URL: https://tryhackme.com/room/servidae
+  Status: Access Denied
+
+- sessionforensics
+  URL: https://tryhackme.com/room/sessionforensics
+  Status: Access Denied
+
+- shaker
+  URL: https://tryhackme.com/room/shaker
+  Status: Access Denied
+
+- shodan
+  URL: https://tryhackme.com/room/shodan
+  Status: Access Denied
+
+- silverplatter
+  URL: https://tryhackme.com/room/silverplatter
+  Status: Access Denied
+
+- smaggrotto
+  URL: https://tryhackme.com/room/smaggrotto
+  Status: Access Denied
+
+- smol
+  URL: https://tryhackme.com/room/smol
+  Status: Access Denied
+
+- snappedphishingline
+  URL: https://tryhackme.com/room/snappedphishingline
+  Status: Access Denied
+
+- snykcode
+  URL: https://tryhackme.com/room/snykcode
+  Status: Access Denied
+
+- snykopensource
+  URL: https://tryhackme.com/room/snykopensource
+  Status: Access Denied
+
+- socfundamentals
+  URL: https://tryhackme.com/room/socfundamentals
+  Status: Access Denied
+
+- socl1alertreporting
+  URL: https://tryhackme.com/room/socl1alertreporting
+  Status: Access Denied
+
+- socl1alerttriage
+  URL: https://tryhackme.com/room/socl1alerttriage
+  Status: Access Denied
+
+- socroleinblueteam
+  URL: https://tryhackme.com/room/socroleinblueteam
+  Status: Access Denied
+
+- solar
+  URL: https://tryhackme.com/room/solar
+  Status: Access Denied
+
+- somesint
+  URL: https://tryhackme.com/room/somesint
+  Status: Access Denied
+
+- source
+  URL: https://tryhackme.com/room/source
+  Status: Access Denied
+
+- splunkexploringspl
+  URL: https://tryhackme.com/room/splunkexploringspl
+  Status: Access Denied
+
+- spring
+  URL: https://tryhackme.com/room/spring
+  Status: Access Denied
+
+- sqhell
+  URL: https://tryhackme.com/room/sqhell
+  Status: Access Denied
+
+- sqlilab
+  URL: https://tryhackme.com/room/sqlilab
+  Status: Access Denied
+
+- sqlinjectionlm
+  URL: https://tryhackme.com/room/sqlinjectionlm
+  Status: Access Denied
+
+- squidgameroom
+  URL: https://tryhackme.com/room/squidgameroom
+  Status: Access Denied
+
+- ssrfhr
+  URL: https://tryhackme.com/room/ssrfhr
+  Status: Access Denied
+
+- startingoutincybersec
+  URL: https://tryhackme.com/room/startingoutincybersec
+  Status: Access Denied
+
+- startup
+  URL: https://tryhackme.com/room/startup
+  Status: Access Denied
+
+- stealth
+  URL: https://tryhackme.com/room/stealth
+  Status: Access Denied
+
+- stuxctf
+  URL: https://tryhackme.com/room/stuxctf
+  Status: Access Denied
+
+- sudovulnsbof
+  URL: https://tryhackme.com/room/sudovulnsbof
+  Status: Access Denied
+
+- sudovulnsbypass
+  URL: https://tryhackme.com/room/sudovulnsbypass
+  Status: Access Denied
+
+- sudovulnssamedit
+  URL: https://tryhackme.com/room/sudovulnssamedit
+  Status: Access Denied
+
+- supersecrettip
+  URL: https://tryhackme.com/room/supersecrettip
+  Status: Access Denied
+
+- superspamr
+  URL: https://tryhackme.com/room/superspamr
+  Status: Access Denied
+
+- supplychainattacks
+  URL: https://tryhackme.com/room/supplychainattacks
+  Status: Access Denied
+
+- sustah
+  URL: https://tryhackme.com/room/sustah
+  Status: Access Denied
+
+- sweettoothinc
+  URL: https://tryhackme.com/room/sweettoothinc
+  Status: Access Denied
+
+- teamcw
+  URL: https://tryhackme.com/room/teamcw
+  Status: Access Denied
+
+- thatstheticket
+  URL: https://tryhackme.com/room/thatstheticket
+  Status: Access Denied
+
+- theblobblog
+  URL: https://tryhackme.com/room/theblobblog
+  Status: Access Denied
+
+- thecodcaper
+  URL: https://tryhackme.com/room/thecodcaper
+  Status: Access Denied
+
+- thefindcommand
+  URL: https://tryhackme.com/room/thefindcommand
+  Status: Access Denied
+
+- thegreatescape
+  URL: https://tryhackme.com/room/thegreatescape
+  Status: Access Denied
+
+- theimpossiblechallenge
+  URL: https://tryhackme.com/room/theimpossiblechallenge
+  Status: Access Denied
+
+- thelondonbridge
+  URL: https://tryhackme.com/room/thelondonbridge
+  Status: Access Denied
+
+- thenewyorkflankees
+  URL: https://tryhackme.com/room/thenewyorkflankees
+  Status: Access Denied
+
+- theserverfromhell
+  URL: https://tryhackme.com/room/theserverfromhell
+  Status: Access Denied
+
+- theseus
+  URL: https://tryhackme.com/room/theseus
+  Status: Access Denied
+
+- thestickershop
+  URL: https://tryhackme.com/room/thestickershop
+  Status: Access Denied
+
+- threatemulationintro
+  URL: https://tryhackme.com/room/threatemulationintro
+  Status: Access Denied
+
+- threathuntingfoothold
+  URL: https://tryhackme.com/room/threathuntingfoothold
+  Status: Access Denied
+
+- threathuntingwithyara
+  URL: https://tryhackme.com/room/threathuntingwithyara
+  Status: Access Denied
+
+- threatintelligenceforsoc
+  URL: https://tryhackme.com/room/threatintelligenceforsoc
+  Status: Access Denied
+
+- tickets1
+  URL: https://tryhackme.com/room/tickets1
+  Status: Access Denied
+
+- tickets2
+  URL: https://tryhackme.com/room/tickets2
+  Status: Access Denied
+
+- tmuxremux
+  URL: https://tryhackme.com/room/tmuxremux
+  Status: Access Denied
+
+- toc2
+  URL: https://tryhackme.com/room/toc2
+  Status: Access Denied
+
+- tokyoghoul666
+  URL: https://tryhackme.com/room/tokyoghoul666
+  Status: Access Denied
+
+- tomghost
+  URL: https://tryhackme.com/room/tomghost
+  Status: Access Denied
+
+- tonythetiger
+  URL: https://tryhackme.com/room/tonythetiger
+  Status: Access Denied
+
+- toolboxvim
+  URL: https://tryhackme.com/room/toolboxvim
+  Status: Access Denied
+
+- torforbeginners
+  URL: https://tryhackme.com/room/torforbeginners
+  Status: Access Denied
+
+- training
+  URL: https://tryhackme.com/room/training
+  Status: Access Denied
+
+- tryhack3mbricksheist
+  URL: https://tryhackme.com/room/tryhack3mbricksheist
+  Status: Access Denied
+
+- tshark
+  URL: https://tryhackme.com/room/tshark
+  Status: Access Denied
+
+- tutorial
+  URL: https://tryhackme.com/room/tutorial
+  Status: Access Denied
+
+- typosquatters
+  URL: https://tryhackme.com/room/typosquatters
+  Status: Access Denied
+
+- ultratech1
+  URL: https://tryhackme.com/room/ultratech1
+  Status: Access Denied
+
+- umbrella
+  URL: https://tryhackme.com/room/umbrella
+  Status: Access Denied
+
+- unattended
+  URL: https://tryhackme.com/room/unattended
+  Status: Access Denied
+
+- unbakedpie
+  URL: https://tryhackme.com/room/unbakedpie
+  Status: Access Denied
+
+- undiscoveredup
+  URL: https://tryhackme.com/room/undiscoveredup
+  Status: Access Denied
+
+- unstabletwin
+  URL: https://tryhackme.com/room/unstabletwin
+  Status: Access Denied
+
+- uranium
+  URL: https://tryhackme.com/room/uranium
+  Status: Access Denied
+
+- ustoun
+  URL: https://tryhackme.com/room/ustoun
+  Status: Access Denied
+
+- valleype
+  URL: https://tryhackme.com/room/valleype
+  Status: Access Denied
+
+- volatilityessentials
+  URL: https://tryhackme.com/room/volatilityessentials
+  Status: Access Denied
+
+- volttyphoon
+  URL: https://tryhackme.com/room/volttyphoon
+  Status: Access Denied
+
+- vulnerabilities101
+  URL: https://tryhackme.com/room/vulnerabilities101
+  Status: Access Denied
+
+- vulnnet1
+  URL: https://tryhackme.com/room/vulnnet1
+  Status: Access Denied
+
+- vulnnetactive
+  URL: https://tryhackme.com/room/vulnnetactive
+  Status: Access Denied
+
+- vulnnetdotjar
+  URL: https://tryhackme.com/room/vulnnetdotjar
+  Status: Access Denied
+
+- vulnnetdotpy
+  URL: https://tryhackme.com/room/vulnnetdotpy
+  Status: Access Denied
+
+- vulnnetinternal
+  URL: https://tryhackme.com/room/vulnnetinternal
+  Status: Access Denied
+
+- vulnnetnode
+  URL: https://tryhackme.com/room/vulnnetnode
+  Status: Access Denied
+
+- vulnnetroasted
+  URL: https://tryhackme.com/room/vulnnetroasted
+  Status: Access Denied
+
+- vulnversity
+  URL: https://tryhackme.com/room/vulnversity
+  Status: Access Denied
+
+- w1seguy
+  URL: https://tryhackme.com/room/w1seguy
+  Status: Access Denied
+
+- walkinganapplication
+  URL: https://tryhackme.com/room/walkinganapplication
+  Status: Access Denied
+
+- watcher
+  URL: https://tryhackme.com/room/watcher
+  Status: Access Denied
+
+- weasel
+  URL: https://tryhackme.com/room/weasel
+  Status: Access Denied
+
+- webapplicationbasics
+  URL: https://tryhackme.com/room/webapplicationbasics
+  Status: Access Denied
+
+- webfundamentals
+  URL: https://tryhackme.com/room/webfundamentals
+  Status: Access Denied
+
+- webgoat
+  URL: https://tryhackme.com/room/webgoat
+  Status: Access Denied
+
+- webosint
+  URL: https://tryhackme.com/room/webosint
+  Status: Access Denied
+
+- websecurityessentials
+  URL: https://tryhackme.com/room/websecurityessentials
+  Status: Access Denied
+
+- wekorra
+  URL: https://tryhackme.com/room/wekorra
+  Status: Access Denied
+
+- wgelctf
+  URL: https://tryhackme.com/room/wgelctf
+  Status: Access Denied
+
+- whatisnetworking
+  URL: https://tryhackme.com/room/whatisnetworking
+  Status: Access Denied
+
+- whiterose
+  URL: https://tryhackme.com/room/whiterose
+  Status: Access Denied
+
+- whyhackme
+  URL: https://tryhackme.com/room/whyhackme
+  Status: Access Denied
+
+- wifihacking101
+  URL: https://tryhackme.com/room/wifihacking101
+  Status: Access Denied
+
+- willow
+  URL: https://tryhackme.com/room/willow
+  Status: Access Denied
+
+- win64assembly
+  URL: https://tryhackme.com/room/win64assembly
+  Status: Access Denied
+
+- winadbasics
+  URL: https://tryhackme.com/room/winadbasics
+  Status: Access Denied
+
+- windows10privesc
+  URL: https://tryhackme.com/room/windows10privesc
+  Status: Access Denied
+
+- windowsapplications
+  URL: https://tryhackme.com/room/windowsapplications
+  Status: Access Denied
+
+- windowscommandline
+  URL: https://tryhackme.com/room/windowscommandline
+  Status: Access Denied
+
+- windowsfundamentals1xbx
+  URL: https://tryhackme.com/room/windowsfundamentals1xbx
+  Status: Access Denied
+
+- windowsfundamentals2x0x
+  URL: https://tryhackme.com/room/windowsfundamentals2x0x
+  Status: Access Denied
+
+- windowsfundamentals3xzx
+  URL: https://tryhackme.com/room/windowsfundamentals3xzx
+  Status: Access Denied
+
+- windowsloggingforsoc
+  URL: https://tryhackme.com/room/windowsloggingforsoc
+  Status: Access Denied
+
+- windowsprivescarena
+  URL: https://tryhackme.com/room/windowsprivescarena
+  Status: Access Denied
+
+- windowsthreatdetection1
+  URL: https://tryhackme.com/room/windowsthreatdetection1
+  Status: Access Denied
+
+- winincidentsurface
+  URL: https://tryhackme.com/room/winincidentsurface
+  Status: Access Denied
+
+- wonderland
+  URL: https://tryhackme.com/room/wonderland
+  Status: Access Denied
+
+- wordpresscve202129447
+  URL: https://tryhackme.com/room/wordpresscve202129447
+  Status: Access Denied
+
+- writingpentestreports
+  URL: https://tryhackme.com/room/writingpentestreports
+  Status: Access Denied
+
+- wwbuddy
+  URL: https://tryhackme.com/room/wwbuddy
+  Status: Access Denied
+
+- x8664arch
+  URL: https://tryhackme.com/room/x8664arch
+  Status: Access Denied
+
+- xdrintroduction
+  URL: https://tryhackme.com/room/xdrintroduction
+  Status: Access Denied
+
+- yearofthedog
+  URL: https://tryhackme.com/room/yearofthedog
+  Status: Access Denied
+
+- yearofthejellyfish
+  URL: https://tryhackme.com/room/yearofthejellyfish
+  Status: Access Denied
+
+- yearoftheowl
+  URL: https://tryhackme.com/room/yearoftheowl
+  Status: Access Denied
+
+- yearofthepig
+  URL: https://tryhackme.com/room/yearofthepig
+  Status: Access Denied
+
+- yearoftherabbit
+  URL: https://tryhackme.com/room/yearoftherabbit
+  Status: Access Denied
+
+- yotf
+  URL: https://tryhackme.com/room/yotf
+  Status: Access Denied
+
+- yueiua
+  URL: https://tryhackme.com/room/yueiua
+  Status: Access Denied
+

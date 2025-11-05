@@ -1,0 +1,8 @@
+TryHackMe Rooms Likely Requiring Premium
+============================================================
+Generated: 2025-11-05 00:30:01
+Total: 0
+
+Note: These rooms returned redirects which may indicate premium status.
+Manual verification recommended.
+

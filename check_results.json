@@ -1,0 +1,2736 @@
+{
+  "timestamp": "2025-11-05 00:30:01",
+  "elapsed_seconds": 4.6241302490234375,
+  "total_rooms": 544,
+  "free_likely": [],
+  "unavailable": [],
+  "premium_likely": [],
+  "errors": [
+    [
+      "4th3n4",
+      "https://tryhackme.com/room/4th3n4",
+      "Access Denied"
+    ],
+    [
+      "25daysofchristmas",
+      "https://tryhackme.com/room/25daysofchristmas",
+      "Access Denied"
+    ],
+    [
+      "HackfinityBattle",
+      "https://tryhackme.com/room/HackfinityBattle",
+      "Access Denied"
+    ],
+    [
+      "activerecon",
+      "https://tryhackme.com/room/activerecon",
+      "Access Denied"
+    ],
+    [
+      "0day",
+      "https://tryhackme.com/room/0day",
+      "Access Denied"
+    ],
+    [
+      "advancedsqlinjection",
+      "https://tryhackme.com/room/advancedsqlinjection",
+      "Access Denied"
+    ],
+    [
+      "adbasicenumeration",
+      "https://tryhackme.com/room/adbasicenumeration",
+      "Access Denied"
+    ],
+    [
+      "adana",
+      "https://tryhackme.com/room/adana",
+      "Access Denied"
+    ],
+    [
+      "adventofcyber2",
+      "https://tryhackme.com/room/adventofcyber2",
+      "Access Denied"
+    ],
+    [
+      "activedirectoryening",
+      "https://tryhackme.com/room/activedirectoryening",
+      "Access Denied"
+    ],
+    [
+      "adventofcyber23sidequest",
+      "https://tryhackme.com/room/adventofcyber23sidequest",
+      "Access Denied"
+    ],
+    [
+      "adventofcyber3",
+      "https://tryhackme.com/room/adventofcyber3",
+      "Access Denied"
+    ],
+    [
+      "adventofcyber2024",
+      "https://tryhackme.com/room/adventofcyber2024",
+      "Access Denied"
+    ],
+    [
+      "adventofcyber2023",
+      "https://tryhackme.com/room/adventofcyber2023",
+      "Access Denied"
+    ],
+    [
+      "agentsudoctf",
+      "https://tryhackme.com/room/agentsudoctf",
+      "Access Denied"
+    ],
+    [
+      "airplane",
+      "https://tryhackme.com/room/airplane",
+      "Access Denied"
+    ],
+    [
+      "adventofcyber4",
+      "https://tryhackme.com/room/adventofcyber4",
+      "Access Denied"
+    ],
+    [
+      "aimlsecuritythreats",
+      "https://tryhackme.com/room/aimlsecuritythreats",
+      "Access Denied"
+    ],
+    [
+      "androidhacking101",
+      "https://tryhackme.com/room/androidhacking101",
+      "Access Denied"
+    ],
+    [
+      "allinonemj",
+      "https://tryhackme.com/room/allinonemj",
+      "Access Denied"
+    ],
+    [
+      "appsecir",
+      "https://tryhackme.com/room/appsecir",
+      "Access Denied"
+    ],
+    [
+      "anthem",
+      "https://tryhackme.com/room/anthem",
+      "Access Denied"
+    ],
+    [
+      "apiwizardsbreach",
+      "https://tryhackme.com/room/apiwizardsbreach",
+      "Access Denied"
+    ],
+    [
+      "anonymous",
+      "https://tryhackme.com/room/anonymous",
+      "Access Denied"
+    ],
+    [
+      "anonymousplayground",
+      "https://tryhackme.com/room/anonymousplayground",
+      "Access Denied"
+    ],
+    [
+      "apt28inceptiontheory",
+      "https://tryhackme.com/room/apt28inceptiontheory",
+      "Access Denied"
+    ],
+    [
+      "atlas",
+      "https://tryhackme.com/room/atlas",
+      "Access Denied"
+    ],
+    [
+      "aster",
+      "https://tryhackme.com/room/aster",
+      "Access Denied"
+    ],
+    [
+      "archangel",
+      "https://tryhackme.com/room/archangel",
+      "Access Denied"
+    ],
+    [
+      "attackerkb",
+      "https://tryhackme.com/room/attackerkb",
+      "Access Denied"
+    ],
+    [
+      "attackingics1",
+      "https://tryhackme.com/room/attackingics1",
+      "Access Denied"
+    ],
+    [
+      "attacktivedirectory",
+      "https://tryhackme.com/room/attacktivedirectory",
+      "Access Denied"
+    ],
+    [
+      "attackingics2",
+      "https://tryhackme.com/room/attackingics2",
+      "Access Denied"
+    ],
+    [
+      "avenger",
+      "https://tryhackme.com/room/avenger",
+      "Access Denied"
+    ],
+    [
+      "autopsy2ze0",
+      "https://tryhackme.com/room/autopsy2ze0",
+      "Access Denied"
+    ],
+    [
+      "axss",
+      "https://tryhackme.com/room/axss",
+      "Access Denied"
+    ],
+    [
+      "backtrack",
+      "https://tryhackme.com/room/backtrack",
+      "Access Denied"
+    ],
+    [
+      "badbyte",
+      "https://tryhackme.com/room/badbyte",
+      "Access Denied"
+    ],
+    [
+      "bashscripting",
+      "https://tryhackme.com/room/bashscripting",
+      "Access Denied"
+    ],
+    [
+      "basicmalwarere",
+      "https://tryhackme.com/room/basicmalwarere",
+      "Access Denied"
+    ],
+    [
+      "binaryheaven",
+      "https://tryhackme.com/room/binaryheaven",
+      "Access Denied"
+    ],
+    [
+      "billing",
+      "https://tryhackme.com/room/billing",
+      "Access Denied"
+    ],
+    [
+      "battery",
+      "https://tryhackme.com/room/battery",
+      "Access Denied"
+    ],
+    [
+      "biohazard",
+      "https://tryhackme.com/room/biohazard",
+      "Access Denied"
+    ],
+    [
+      "basicpentestingjt",
+      "https://tryhackme.com/room/basicpentestingjt",
+      "Access Denied"
+    ],
+    [
+      "blaster",
+      "https://tryhackme.com/room/blaster",
+      "Access Denied"
+    ],
+    [
+      "beginnerpathintro",
+      "https://tryhackme.com/room/beginnerpathintro",
+      "Access Denied"
+    ],
+    [
+      "blockroom",
+      "https://tryhackme.com/room/blockroom",
+      "Access Denied"
+    ],
+    [
+      "blog",
+      "https://tryhackme.com/room/blog",
+      "Access Denied"
+    ],
+    [
+      "blue",
+      "https://tryhackme.com/room/blue",
+      "Access Denied"
+    ],
+    [
+      "blueprint",
+      "https://tryhackme.com/room/blueprint",
+      "Access Denied"
+    ],
+    [
+      "bolt",
+      "https://tryhackme.com/room/bolt",
+      "Access Denied"
+    ],
+    [
+      "boilerctf2",
+      "https://tryhackme.com/room/boilerctf2",
+      "Access Denied"
+    ],
+    [
+      "bppenguin",
+      "https://tryhackme.com/room/bppenguin",
+      "Access Denied"
+    ],
+    [
+      "boogeyman1",
+      "https://tryhackme.com/room/boogeyman1",
+      "Access Denied"
+    ],
+    [
+      "bpnetworking",
+      "https://tryhackme.com/room/bpnetworking",
+      "Access Denied"
+    ],
+    [
+      "borderlands",
+      "https://tryhackme.com/room/borderlands",
+      "Access Denied"
+    ],
+    [
+      "bookstoreoc",
+      "https://tryhackme.com/room/bookstoreoc",
+      "Access Denied"
+    ],
+    [
+      "bpsplunk",
+      "https://tryhackme.com/room/bpsplunk",
+      "Access Denied"
+    ],
+    [
+      "bpvolatility",
+      "https://tryhackme.com/room/bpvolatility",
+      "Access Denied"
+    ],
+    [
+      "breakit",
+      "https://tryhackme.com/room/breakit",
+      "Access Denied"
+    ],
+    [
+      "breakingcryptothesimpleway",
+      "https://tryhackme.com/room/breakingcryptothesimpleway",
+      "Access Denied"
+    ],
+    [
+      "brainpan",
+      "https://tryhackme.com/room/brainpan",
+      "Access Denied"
+    ],
+    [
+      "breakmenu",
+      "https://tryhackme.com/room/breakmenu",
+      "Access Denied"
+    ],
+    [
+      "breakoutthecage1",
+      "https://tryhackme.com/room/breakoutthecage1",
+      "Access Denied"
+    ],
+    [
+      "breakrsa",
+      "https://tryhackme.com/room/breakrsa",
+      "Access Denied"
+    ],
+    [
+      "broker",
+      "https://tryhackme.com/room/broker",
+      "Access Denied"
+    ],
+    [
+      "brooklynninenine",
+      "https://tryhackme.com/room/brooklynninenine",
+      "Access Denied"
+    ],
+    [
+      "bruteit",
+      "https://tryhackme.com/room/bruteit",
+      "Access Denied"
+    ],
+    [
+      "bsidesgtanonforce",
+      "https://tryhackme.com/room/bsidesgtanonforce",
+      "Access Denied"
+    ],
+    [
+      "bsidesgtdevelpy",
+      "https://tryhackme.com/room/bsidesgtdevelpy",
+      "Access Denied"
+    ],
+    [
+      "bsidesgtdav",
+      "https://tryhackme.com/room/bsidesgtdav",
+      "Access Denied"
+    ],
+    [
+      "bsidesgtthompson",
+      "https://tryhackme.com/room/bsidesgtthompson",
+      "Access Denied"
+    ],
+    [
+      "bugged",
+      "https://tryhackme.com/room/bugged",
+      "Access Denied"
+    ],
+    [
+      "bsidesgtlibrary",
+      "https://tryhackme.com/room/bsidesgtlibrary",
+      "Access Denied"
+    ],
+    [
+      "bufferoverflowprep",
+      "https://tryhackme.com/room/bufferoverflowprep",
+      "Access Denied"
+    ],
+    [
+      "burpsuitebasics",
+      "https://tryhackme.com/room/burpsuitebasics",
+      "Access Denied"
+    ],
+    [
+      "burpsuiterepeater",
+      "https://tryhackme.com/room/burpsuiterepeater",
+      "Access Denied"
+    ],
+    [
+      "bypassdisablefunctions",
+      "https://tryhackme.com/room/bypassdisablefunctions",
+      "Access Denied"
+    ],
+    [
+      "bypassreallysimplesecurity",
+      "https://tryhackme.com/room/bypassreallysimplesecurity",
+      "Access Denied"
+    ],
+    [
+      "c4ptur3th3fl4g",
+      "https://tryhackme.com/room/c4ptur3th3fl4g",
+      "Access Denied"
+    ],
+    [
+      "c2carnage",
+      "https://tryhackme.com/room/c2carnage",
+      "Access Denied"
+    ],
+    [
+      "capturereturns",
+      "https://tryhackme.com/room/capturereturns",
+      "Access Denied"
+    ],
+    [
+      "capture",
+      "https://tryhackme.com/room/capture",
+      "Access Denied"
+    ],
+    [
+      "carpediem1",
+      "https://tryhackme.com/room/carpediem1",
+      "Access Denied"
+    ],
+    [
+      "cactus",
+      "https://tryhackme.com/room/cactus",
+      "Access Denied"
+    ],
+    [
+      "caseb4dm755",
+      "https://tryhackme.com/room/caseb4dm755",
+      "Access Denied"
+    ],
+    [
+      "catpictures",
+      "https://tryhackme.com/room/catpictures",
+      "Access Denied"
+    ],
+    [
+      "catregex",
+      "https://tryhackme.com/room/catregex",
+      "Access Denied"
+    ],
+    [
+      "ccghidra",
+      "https://tryhackme.com/room/ccghidra",
+      "Access Denied"
+    ],
+    [
+      "catpictures2",
+      "https://tryhackme.com/room/catpictures2",
+      "Access Denied"
+    ],
+    [
+      "cauldron",
+      "https://tryhackme.com/room/cauldron",
+      "Access Denied"
+    ],
+    [
+      "ccstego",
+      "https://tryhackme.com/room/ccstego",
+      "Access Denied"
+    ],
+    [
+      "ccradare2",
+      "https://tryhackme.com/room/ccradare2",
+      "Access Denied"
+    ],
+    [
+      "chainingvulnerabilitiesZp",
+      "https://tryhackme.com/room/chainingvulnerabilitiesZp",
+      "Access Denied"
+    ],
+    [
+      "cct2019",
+      "https://tryhackme.com/room/cct2019",
+      "Access Denied"
+    ],
+    [
+      "certaindoom",
+      "https://tryhackme.com/room/certaindoom",
+      "Access Denied"
+    ],
+    [
+      "cheesectfv10",
+      "https://tryhackme.com/room/cheesectfv10",
+      "Access Denied"
+    ],
+    [
+      "cherryblossom",
+      "https://tryhackme.com/room/cherryblossom",
+      "Access Denied"
+    ],
+    [
+      "chocolatefactory",
+      "https://tryhackme.com/room/chocolatefactory",
+      "Access Denied"
+    ],
+    [
+      "chrome",
+      "https://tryhackme.com/room/chrome",
+      "Access Denied"
+    ],
+    [
+      "chillhack",
+      "https://tryhackme.com/room/chillhack",
+      "Access Denied"
+    ],
+    [
+      "chronicle",
+      "https://tryhackme.com/room/chronicle",
+      "Access Denied"
+    ],
+    [
+      "cicada3301vol1",
+      "https://tryhackme.com/room/cicada3301vol1",
+      "Access Denied"
+    ],
+    [
+      "classicpasswd",
+      "https://tryhackme.com/room/classicpasswd",
+      "Access Denied"
+    ],
+    [
+      "clocky",
+      "https://tryhackme.com/room/clocky",
+      "Access Denied"
+    ],
+    [
+      "clusterhardening",
+      "https://tryhackme.com/room/clusterhardening",
+      "Access Denied"
+    ],
+    [
+      "cmess",
+      "https://tryhackme.com/room/cmess",
+      "Access Denied"
+    ],
+    [
+      "compiled",
+      "https://tryhackme.com/room/compiled",
+      "Access Denied"
+    ],
+    [
+      "colddboxeasy",
+      "https://tryhackme.com/room/colddboxeasy",
+      "Access Denied"
+    ],
+    [
+      "cmspit",
+      "https://tryhackme.com/room/cmspit",
+      "Access Denied"
+    ],
+    [
+      "coldvvars",
+      "https://tryhackme.com/room/coldvvars",
+      "Access Denied"
+    ],
+    [
+      "compromisedwindowsanalysis",
+      "https://tryhackme.com/room/compromisedwindowsanalysis",
+      "Access Denied"
+    ],
+    [
+      "confidential",
+      "https://tryhackme.com/room/confidential",
+      "Access Denied"
+    ],
+    [
+      "confluence202322515",
+      "https://tryhackme.com/room/confluence202322515",
+      "Access Denied"
+    ],
+    [
+      "contrabando",
+      "https://tryhackme.com/room/contrabando",
+      "Access Denied"
+    ],
+    [
+      "contentdiscovery",
+      "https://tryhackme.com/room/contentdiscovery",
+      "Access Denied"
+    ],
+    [
+      "convertmyvideo",
+      "https://tryhackme.com/room/convertmyvideo",
+      "Access Denied"
+    ],
+    [
+      "contiransomwarehgh",
+      "https://tryhackme.com/room/contiransomwarehgh",
+      "Access Denied"
+    ],
+    [
+      "couch",
+      "https://tryhackme.com/room/couch",
+      "Access Denied"
+    ],
+    [
+      "cooctusadventures",
+      "https://tryhackme.com/room/cooctusadventures",
+      "Access Denied"
+    ],
+    [
+      "cowboyhacker",
+      "https://tryhackme.com/room/cowboyhacker",
+      "Access Denied"
+    ],
+    [
+      "crackthehash",
+      "https://tryhackme.com/room/crackthehash",
+      "Access Denied"
+    ],
+    [
+      "crackthehashlevel2",
+      "https://tryhackme.com/room/crackthehashlevel2",
+      "Access Denied"
+    ],
+    [
+      "creative",
+      "https://tryhackme.com/room/creative",
+      "Access Denied"
+    ],
+    [
+      "critical",
+      "https://tryhackme.com/room/critical",
+      "Access Denied"
+    ],
+    [
+      "crylo4a",
+      "https://tryhackme.com/room/crylo4a",
+      "Access Denied"
+    ],
+    [
+      "cryptographyintro",
+      "https://tryhackme.com/room/cryptographyintro",
+      "Access Denied"
+    ],
+    [
+      "cryptographyfordummies",
+      "https://tryhackme.com/room/cryptographyfordummies",
+      "Access Denied"
+    ],
+    [
+      "cryptofailures",
+      "https://tryhackme.com/room/cryptofailures",
+      "Access Denied"
+    ],
+    [
+      "cryptographybasics",
+      "https://tryhackme.com/room/cryptographybasics",
+      "Access Denied"
+    ],
+    [
+      "ctf",
+      "https://tryhackme.com/room/ctf",
+      "Access Denied"
+    ],
+    [
+      "crocccrew",
+      "https://tryhackme.com/room/crocccrew",
+      "Access Denied"
+    ],
+    [
+      "ctfcollectionvol1",
+      "https://tryhackme.com/room/ctfcollectionvol1",
+      "Access Denied"
+    ],
+    [
+      "csrfV2",
+      "https://tryhackme.com/room/csrfV2",
+      "Access Denied"
+    ],
+    [
+      "ctfcollectionvol2",
+      "https://tryhackme.com/room/ctfcollectionvol2",
+      "Access Denied"
+    ],
+    [
+      "cve202338408",
+      "https://tryhackme.com/room/cve202338408",
+      "Access Denied"
+    ],
+    [
+      "ctfonepiece65",
+      "https://tryhackme.com/room/ctfonepiece65",
+      "Access Denied"
+    ],
+    [
+      "cyberchefbasics",
+      "https://tryhackme.com/room/cyberchefbasics",
+      "Access Denied"
+    ],
+    [
+      "customtoolingpython",
+      "https://tryhackme.com/room/customtoolingpython",
+      "Access Denied"
+    ],
+    [
+      "cyberkillchain",
+      "https://tryhackme.com/room/cyberkillchain",
+      "Access Denied"
+    ],
+    [
+      "cve202141773",
+      "https://tryhackme.com/room/cve202141773",
+      "Access Denied"
+    ],
+    [
+      "cyberlensp6",
+      "https://tryhackme.com/room/cyberlensp6",
+      "Access Denied"
+    ],
+    [
+      "cybercrafted",
+      "https://tryhackme.com/room/cybercrafted",
+      "Access Denied"
+    ],
+    [
+      "cyberweek2021",
+      "https://tryhackme.com/room/cyberweek2021",
+      "Access Denied"
+    ],
+    [
+      "cyborgt8",
+      "https://tryhackme.com/room/cyborgt8",
+      "Access Denied"
+    ],
+    [
+      "directorydfirroom",
+      "https://tryhackme.com/room/directorydfirroom",
+      "Access Denied"
+    ],
+    [
+      "dailybugle",
+      "https://tryhackme.com/room/dailybugle",
+      "Access Denied"
+    ],
+    [
+      "davesblog",
+      "https://tryhackme.com/room/davesblog",
+      "Access Denied"
+    ],
+    [
+      "dejavu",
+      "https://tryhackme.com/room/dejavu",
+      "Access Denied"
+    ],
+    [
+      "debug",
+      "https://tryhackme.com/room/debug",
+      "Access Denied"
+    ],
+    [
+      "dfirprocesslegalconsiderations",
+      "https://tryhackme.com/room/dfirprocesslegalconsiderations",
+      "Access Denied"
+    ],
+    [
+      "detectingwebattacks",
+      "https://tryhackme.com/room/detectingwebattacks",
+      "Access Denied"
+    ],
+    [
+      "django",
+      "https://tryhackme.com/room/django",
+      "Access Denied"
+    ],
+    [
+      "dirtypipe",
+      "https://tryhackme.com/room/dirtypipe",
+      "Access Denied"
+    ],
+    [
+      "dllhijacking",
+      "https://tryhackme.com/room/dllhijacking",
+      "Access Denied"
+    ],
+    [
+      "dnsindetail",
+      "https://tryhackme.com/room/dnsindetail",
+      "Access Denied"
+    ],
+    [
+      "dogcat",
+      "https://tryhackme.com/room/dogcat",
+      "Access Denied"
+    ],
+    [
+      "dvwa",
+      "https://tryhackme.com/room/dvwa",
+      "Access Denied"
+    ],
+    [
+      "dunklematerieptxc9",
+      "https://tryhackme.com/room/dunklematerieptxc9",
+      "Access Denied"
+    ],
+    [
+      "easyctf",
+      "https://tryhackme.com/room/easyctf",
+      "Access Denied"
+    ],
+    [
+      "dreaming",
+      "https://tryhackme.com/room/dreaming",
+      "Access Denied"
+    ],
+    [
+      "dnsmanipulation",
+      "https://tryhackme.com/room/dnsmanipulation",
+      "Access Denied"
+    ],
+    [
+      "easypeasyctf",
+      "https://tryhackme.com/room/easypeasyctf",
+      "Access Denied"
+    ],
+    [
+      "encryptioncrypto101",
+      "https://tryhackme.com/room/encryptioncrypto101",
+      "Access Denied"
+    ],
+    [
+      "enpass",
+      "https://tryhackme.com/room/enpass",
+      "Access Denied"
+    ],
+    [
+      "enumerationbruteforce",
+      "https://tryhackme.com/room/enumerationbruteforce",
+      "Access Denied"
+    ],
+    [
+      "envizon",
+      "https://tryhackme.com/room/envizon",
+      "Access Denied"
+    ],
+    [
+      "erlangotpsshcve202532433",
+      "https://tryhackme.com/room/erlangotpsshcve202532433",
+      "Access Denied"
+    ],
+    [
+      "enterprise",
+      "https://tryhackme.com/room/enterprise",
+      "Access Denied"
+    ],
+    [
+      "eventhorizonroom",
+      "https://tryhackme.com/room/eventhorizonroom",
+      "Access Denied"
+    ],
+    [
+      "enterprize",
+      "https://tryhackme.com/room/enterprize",
+      "Access Denied"
+    ],
+    [
+      "eviction",
+      "https://tryhackme.com/room/eviction",
+      "Access Denied"
+    ],
+    [
+      "extractedroom",
+      "https://tryhackme.com/room/extractedroom",
+      "Access Denied"
+    ],
+    [
+      "fat32analysis",
+      "https://tryhackme.com/room/fat32analysis",
+      "Access Denied"
+    ],
+    [
+      "ffuf",
+      "https://tryhackme.com/room/ffuf",
+      "Access Denied"
+    ],
+    [
+      "fileandhashthreatintel",
+      "https://tryhackme.com/room/fileandhashthreatintel",
+      "Access Denied"
+    ],
+    [
+      "filepathtraversal",
+      "https://tryhackme.com/room/filepathtraversal",
+      "Access Denied"
+    ],
+    [
+      "flask",
+      "https://tryhackme.com/room/flask",
+      "Access Denied"
+    ],
+    [
+      "forbusinessreasons",
+      "https://tryhackme.com/room/forbusinessreasons",
+      "Access Denied"
+    ],
+    [
+      "forensicimaging",
+      "https://tryhackme.com/room/forensicimaging",
+      "Access Denied"
+    ],
+    [
+      "flip",
+      "https://tryhackme.com/room/flip",
+      "Access Denied"
+    ],
+    [
+      "forensics",
+      "https://tryhackme.com/room/forensics",
+      "Access Denied"
+    ],
+    [
+      "forgottenimplant",
+      "https://tryhackme.com/room/forgottenimplant",
+      "Access Denied"
+    ],
+    [
+      "fortress",
+      "https://tryhackme.com/room/fortress",
+      "Access Denied"
+    ],
+    [
+      "fusioncorp",
+      "https://tryhackme.com/room/fusioncorp",
+      "Access Denied"
+    ],
+    [
+      "gamebuzz",
+      "https://tryhackme.com/room/gamebuzz",
+      "Access Denied"
+    ],
+    [
+      "geolocatingimages",
+      "https://tryhackme.com/room/geolocatingimages",
+      "Access Denied"
+    ],
+    [
+      "gamingserver",
+      "https://tryhackme.com/room/gamingserver",
+      "Access Denied"
+    ],
+    [
+      "furthernmap",
+      "https://tryhackme.com/room/furthernmap",
+      "Access Denied"
+    ],
+    [
+      "gitandcrumpets",
+      "https://tryhackme.com/room/gitandcrumpets",
+      "Access Denied"
+    ],
+    [
+      "ghizerctf",
+      "https://tryhackme.com/room/ghizerctf",
+      "Access Denied"
+    ],
+    [
+      "githappens",
+      "https://tryhackme.com/room/githappens",
+      "Access Denied"
+    ],
+    [
+      "gatekeeper",
+      "https://tryhackme.com/room/gatekeeper",
+      "Access Denied"
+    ],
+    [
+      "gitlabcve20237028",
+      "https://tryhackme.com/room/gitlabcve20237028",
+      "Access Denied"
+    ],
+    [
+      "glitch",
+      "https://tryhackme.com/room/glitch",
+      "Access Denied"
+    ],
+    [
+      "googledorking",
+      "https://tryhackme.com/room/googledorking",
+      "Access Denied"
+    ],
+    [
+      "goldeneye",
+      "https://tryhackme.com/room/goldeneye",
+      "Access Denied"
+    ],
+    [
+      "greprtp",
+      "https://tryhackme.com/room/greprtp",
+      "Access Denied"
+    ],
+    [
+      "hackerofthehill",
+      "https://tryhackme.com/room/hackerofthehill",
+      "Access Denied"
+    ],
+    [
+      "hackernote",
+      "https://tryhackme.com/room/hackernote",
+      "Access Denied"
+    ],
+    [
+      "hack2win",
+      "https://tryhackme.com/room/hack2win",
+      "Access Denied"
+    ],
+    [
+      "h4cked",
+      "https://tryhackme.com/room/h4cked",
+      "Access Denied"
+    ],
+    [
+      "hackermethodology",
+      "https://tryhackme.com/room/hackermethodology",
+      "Access Denied"
+    ],
+    [
+      "hacksmartersecurity",
+      "https://tryhackme.com/room/hacksmartersecurity",
+      "Access Denied"
+    ],
+    [
+      "harder",
+      "https://tryhackme.com/room/harder",
+      "Access Denied"
+    ],
+    [
+      "haskhell",
+      "https://tryhackme.com/room/haskhell",
+      "Access Denied"
+    ],
+    [
+      "hc0nchristmasctf",
+      "https://tryhackme.com/room/hc0nchristmasctf",
+      "Access Denied"
+    ],
+    [
+      "hello",
+      "https://tryhackme.com/room/hello",
+      "Access Denied"
+    ],
+    [
+      "honeynet-collapse",
+      "https://tryhackme.com/room/honeynet-collapse",
+      "Access Denied"
+    ],
+    [
+      "hijack",
+      "https://tryhackme.com/room/hijack",
+      "Access Denied"
+    ],
+    [
+      "hipflask",
+      "https://tryhackme.com/room/hipflask",
+      "Access Denied"
+    ],
+    [
+      "historyofmalware",
+      "https://tryhackme.com/room/historyofmalware",
+      "Access Denied"
+    ],
+    [
+      "hostedhypervisors",
+      "https://tryhackme.com/room/hostedhypervisors",
+      "Access Denied"
+    ],
+    [
+      "httpindetail",
+      "https://tryhackme.com/room/httpindetail",
+      "Access Denied"
+    ],
+    [
+      "http2requestsmuggling",
+      "https://tryhackme.com/room/http2requestsmuggling",
+      "Access Denied"
+    ],
+    [
+      "howtousetryhackme",
+      "https://tryhackme.com/room/howtousetryhackme",
+      "Access Denied"
+    ],
+    [
+      "httprequestsmuggling",
+      "https://tryhackme.com/room/httprequestsmuggling",
+      "Access Denied"
+    ],
+    [
+      "ice",
+      "https://tryhackme.com/room/ice",
+      "Access Denied"
+    ],
+    [
+      "hypervisorinternals",
+      "https://tryhackme.com/room/hypervisorinternals",
+      "Access Denied"
+    ],
+    [
+      "hydra",
+      "https://tryhackme.com/room/hydra",
+      "Access Denied"
+    ],
+    [
+      "identificationandscoping",
+      "https://tryhackme.com/room/identificationandscoping",
+      "Access Denied"
+    ],
+    [
+      "ignite",
+      "https://tryhackme.com/room/ignite",
+      "Access Denied"
+    ],
+    [
+      "inacave",
+      "https://tryhackme.com/room/inacave",
+      "Access Denied"
+    ],
+    [
+      "industrial-intrusion",
+      "https://tryhackme.com/room/industrial-intrusion",
+      "Access Denied"
+    ],
+    [
+      "incidentresponseprocess",
+      "https://tryhackme.com/room/incidentresponseprocess",
+      "Access Denied"
+    ],
+    [
+      "inferno",
+      "https://tryhackme.com/room/inferno",
+      "Access Denied"
+    ],
+    [
+      "insecurerandomness",
+      "https://tryhackme.com/room/insecurerandomness",
+      "Access Denied"
+    ],
+    [
+      "intelcreationandcontainment",
+      "https://tryhackme.com/room/intelcreationandcontainment",
+      "Access Denied"
+    ],
+    [
+      "internal",
+      "https://tryhackme.com/room/internal",
+      "Access Denied"
+    ],
+    [
+      "introductiontocryptops",
+      "https://tryhackme.com/room/introductiontocryptops",
+      "Access Denied"
+    ],
+    [
+      "introductiontothreathunting",
+      "https://tryhackme.com/room/introductiontothreathunting",
+      "Access Denied"
+    ],
+    [
+      "introductiontoedrs",
+      "https://tryhackme.com/room/introductiontoedrs",
+      "Access Denied"
+    ],
+    [
+      "intropocscripting",
+      "https://tryhackme.com/room/intropocscripting",
+      "Access Denied"
+    ],
+    [
+      "introtocoldsystemforensics",
+      "https://tryhackme.com/room/introtocoldsystemforensics",
+      "Access Denied"
+    ],
+    [
+      "introtodockerk8pdqk",
+      "https://tryhackme.com/room/introtodockerk8pdqk",
+      "Access Denied"
+    ],
+    [
+      "introtodetectionengineering",
+      "https://tryhackme.com/room/introtodetectionengineering",
+      "Access Denied"
+    ],
+    [
+      "introtoiac",
+      "https://tryhackme.com/room/introtoiac",
+      "Access Denied"
+    ],
+    [
+      "introtolan",
+      "https://tryhackme.com/room/introtolan",
+      "Access Denied"
+    ],
+    [
+      "introtologs",
+      "https://tryhackme.com/room/introtologs",
+      "Access Denied"
+    ],
+    [
+      "introtonetworking",
+      "https://tryhackme.com/room/introtonetworking",
+      "Access Denied"
+    ],
+    [
+      "introtopwntools",
+      "https://tryhackme.com/room/introtopwntools",
+      "Access Denied"
+    ],
+    [
+      "introtoresearch",
+      "https://tryhackme.com/room/introtoresearch",
+      "Access Denied"
+    ],
+    [
+      "introtox8664",
+      "https://tryhackme.com/room/introtox8664",
+      "Access Denied"
+    ],
+    [
+      "investigatingwindows2",
+      "https://tryhackme.com/room/investigatingwindows2",
+      "Access Denied"
+    ],
+    [
+      "investigatingwindows",
+      "https://tryhackme.com/room/investigatingwindows",
+      "Access Denied"
+    ],
+    [
+      "investigatingwindows3",
+      "https://tryhackme.com/room/investigatingwindows3",
+      "Access Denied"
+    ],
+    [
+      "iotintro",
+      "https://tryhackme.com/room/iotintro",
+      "Access Denied"
+    ],
+    [
+      "irphilosophyethics",
+      "https://tryhackme.com/room/irphilosophyethics",
+      "Access Denied"
+    ],
+    [
+      "ironcorp",
+      "https://tryhackme.com/room/ironcorp",
+      "Access Denied"
+    ],
+    [
+      "irplaybooks",
+      "https://tryhackme.com/room/irplaybooks",
+      "Access Denied"
+    ],
+    [
+      "jackofalltrades",
+      "https://tryhackme.com/room/jackofalltrades",
+      "Access Denied"
+    ],
+    [
+      "iso27001",
+      "https://tryhackme.com/room/iso27001",
+      "Access Denied"
+    ],
+    [
+      "jacobtheboss",
+      "https://tryhackme.com/room/jacobtheboss",
+      "Access Denied"
+    ],
+    [
+      "javascriptbasics",
+      "https://tryhackme.com/room/javascriptbasics",
+      "Access Denied"
+    ],
+    [
+      "jeff",
+      "https://tryhackme.com/room/jeff",
+      "Access Denied"
+    ],
+    [
+      "jokerctf",
+      "https://tryhackme.com/room/jokerctf",
+      "Access Denied"
+    ],
+    [
+      "joomify",
+      "https://tryhackme.com/room/joomify",
+      "Access Denied"
+    ],
+    [
+      "jpgchat",
+      "https://tryhackme.com/room/jpgchat",
+      "Access Denied"
+    ],
+    [
+      "juicydetails",
+      "https://tryhackme.com/room/juicydetails",
+      "Access Denied"
+    ],
+    [
+      "jupyter101",
+      "https://tryhackme.com/room/jupyter101",
+      "Access Denied"
+    ],
+    [
+      "justlooking",
+      "https://tryhackme.com/room/justlooking",
+      "Access Denied"
+    ],
+    [
+      "jvmreverseengineering",
+      "https://tryhackme.com/room/jvmreverseengineering",
+      "Access Denied"
+    ],
+    [
+      "k8sruntimesecurity",
+      "https://tryhackme.com/room/k8sruntimesecurity",
+      "Access Denied"
+    ],
+    [
+      "k8sbestsecuritypractices",
+      "https://tryhackme.com/room/k8sbestsecuritypractices",
+      "Access Denied"
+    ],
+    [
+      "kenobi",
+      "https://tryhackme.com/room/kenobi",
+      "Access Denied"
+    ],
+    [
+      "kiba",
+      "https://tryhackme.com/room/kiba",
+      "Access Denied"
+    ],
+    [
+      "kitty",
+      "https://tryhackme.com/room/kitty",
+      "Access Denied"
+    ],
+    [
+      "kothfoodctf",
+      "https://tryhackme.com/room/kothfoodctf",
+      "Access Denied"
+    ],
+    [
+      "kothhackers",
+      "https://tryhackme.com/room/kothhackers",
+      "Access Denied"
+    ],
+    [
+      "kuberneteschalltdi2020",
+      "https://tryhackme.com/room/kuberneteschalltdi2020",
+      "Access Denied"
+    ],
+    [
+      "lazyadmin",
+      "https://tryhackme.com/room/lazyadmin",
+      "Access Denied"
+    ],
+    [
+      "learnowaspzap",
+      "https://tryhackme.com/room/learnowaspzap",
+      "Access Denied"
+    ],
+    [
+      "learncyberin25days",
+      "https://tryhackme.com/room/learncyberin25days",
+      "Access Denied"
+    ],
+    [
+      "lessonlearned",
+      "https://tryhackme.com/room/lessonlearned",
+      "Access Denied"
+    ],
+    [
+      "lianyu",
+      "https://tryhackme.com/room/lianyu",
+      "Access Denied"
+    ],
+    [
+      "learnssti",
+      "https://tryhackme.com/room/learnssti",
+      "Access Denied"
+    ],
+    [
+      "linprivesc",
+      "https://tryhackme.com/room/linprivesc",
+      "Access Denied"
+    ],
+    [
+      "lightroom",
+      "https://tryhackme.com/room/lightroom",
+      "Access Denied"
+    ],
+    [
+      "linuxagency",
+      "https://tryhackme.com/room/linuxagency",
+      "Access Denied"
+    ],
+    [
+      "linuxbackdoors",
+      "https://tryhackme.com/room/linuxbackdoors",
+      "Access Denied"
+    ],
+    [
+      "linuxfilesystemanalysis",
+      "https://tryhackme.com/room/linuxfilesystemanalysis",
+      "Access Denied"
+    ],
+    [
+      "linuxloggingforsoc",
+      "https://tryhackme.com/room/linuxloggingforsoc",
+      "Access Denied"
+    ],
+    [
+      "linuxfunctionhooking",
+      "https://tryhackme.com/room/linuxfunctionhooking",
+      "Access Denied"
+    ],
+    [
+      "linuxfundamentalspart1",
+      "https://tryhackme.com/room/linuxfundamentalspart1",
+      "Access Denied"
+    ],
+    [
+      "linuxincidentsurface",
+      "https://tryhackme.com/room/linuxincidentsurface",
+      "Access Denied"
+    ],
+    [
+      "linuxmodules",
+      "https://tryhackme.com/room/linuxmodules",
+      "Access Denied"
+    ],
+    [
+      "linuxprivesc",
+      "https://tryhackme.com/room/linuxprivesc",
+      "Access Denied"
+    ],
+    [
+      "linuxprivescarena",
+      "https://tryhackme.com/room/linuxprivescarena",
+      "Access Denied"
+    ],
+    [
+      "linuxprocessanalysis",
+      "https://tryhackme.com/room/linuxprocessanalysis",
+      "Access Denied"
+    ],
+    [
+      "linuxserverforensics",
+      "https://tryhackme.com/room/linuxserverforensics",
+      "Access Denied"
+    ],
+    [
+      "linuxstrengthtraining",
+      "https://tryhackme.com/room/linuxstrengthtraining",
+      "Access Denied"
+    ],
+    [
+      "linuxthreatdetection1",
+      "https://tryhackme.com/room/linuxthreatdetection1",
+      "Access Denied"
+    ],
+    [
+      "lofi",
+      "https://tryhackme.com/room/lofi",
+      "Access Denied"
+    ],
+    [
+      "loglesshunt",
+      "https://tryhackme.com/room/loglesshunt",
+      "Access Denied"
+    ],
+    [
+      "lookingglass",
+      "https://tryhackme.com/room/lookingglass",
+      "Access Denied"
+    ],
+    [
+      "lookback",
+      "https://tryhackme.com/room/lookback",
+      "Access Denied"
+    ],
+    [
+      "lookup",
+      "https://tryhackme.com/room/lookup",
+      "Access Denied"
+    ],
+    [
+      "looneytunes",
+      "https://tryhackme.com/room/looneytunes",
+      "Access Denied"
+    ],
+    [
+      "m4tr1xexitdenied",
+      "https://tryhackme.com/room/m4tr1xexitdenied",
+      "Access Denied"
+    ],
+    [
+      "lunizzctfnd",
+      "https://tryhackme.com/room/lunizzctfnd",
+      "Access Denied"
+    ],
+    [
+      "macosforensicsartefacts",
+      "https://tryhackme.com/room/macosforensicsartefacts",
+      "Access Denied"
+    ],
+    [
+      "madeyescastle",
+      "https://tryhackme.com/room/madeyescastle",
+      "Access Denied"
+    ],
+    [
+      "macosforensicsbasics",
+      "https://tryhackme.com/room/macosforensicsbasics",
+      "Access Denied"
+    ],
+    [
+      "madness",
+      "https://tryhackme.com/room/madness",
+      "Access Denied"
+    ],
+    [
+      "magician",
+      "https://tryhackme.com/room/magician",
+      "Access Denied"
+    ],
+    [
+      "malresearching",
+      "https://tryhackme.com/room/malresearching",
+      "Access Denied"
+    ],
+    [
+      "malmalintroductory",
+      "https://tryhackme.com/room/malmalintroductory",
+      "Access Denied"
+    ],
+    [
+      "malwareclassification",
+      "https://tryhackme.com/room/malwareclassification",
+      "Access Denied"
+    ],
+    [
+      "marketplace",
+      "https://tryhackme.com/room/marketplace",
+      "Access Denied"
+    ],
+    [
+      "mayhemroom",
+      "https://tryhackme.com/room/mayhemroom",
+      "Access Denied"
+    ],
+    [
+      "mbrandgptanalysis",
+      "https://tryhackme.com/room/mbrandgptanalysis",
+      "Access Denied"
+    ],
+    [
+      "memoryanalysisintroduction",
+      "https://tryhackme.com/room/memoryanalysisintroduction",
+      "Access Denied"
+    ],
+    [
+      "meltdownexplained",
+      "https://tryhackme.com/room/meltdownexplained",
+      "Access Denied"
+    ],
+    [
+      "memoryforensics",
+      "https://tryhackme.com/room/memoryforensics",
+      "Access Denied"
+    ],
+    [
+      "metamorphosis",
+      "https://tryhackme.com/room/metamorphosis",
+      "Access Denied"
+    ],
+    [
+      "metasploitintro",
+      "https://tryhackme.com/room/metasploitintro",
+      "Access Denied"
+    ],
+    [
+      "mitre",
+      "https://tryhackme.com/room/mitre",
+      "Access Denied"
+    ],
+    [
+      "microservicearchitectures",
+      "https://tryhackme.com/room/microservicearchitectures",
+      "Access Denied"
+    ],
+    [
+      "misguidedghosts",
+      "https://tryhackme.com/room/misguidedghosts",
+      "Access Denied"
+    ],
+    [
+      "mindgames",
+      "https://tryhackme.com/room/mindgames",
+      "Access Denied"
+    ],
+    [
+      "mkingdom",
+      "https://tryhackme.com/room/mkingdom",
+      "Access Denied"
+    ],
+    [
+      "mobileacquisition",
+      "https://tryhackme.com/room/mobileacquisition",
+      "Access Denied"
+    ],
+    [
+      "mma",
+      "https://tryhackme.com/room/mma",
+      "Access Denied"
+    ],
+    [
+      "mnemonic",
+      "https://tryhackme.com/room/mnemonic",
+      "Access Denied"
+    ],
+    [
+      "moebius",
+      "https://tryhackme.com/room/moebius",
+      "Access Denied"
+    ],
+    [
+      "monikerlink",
+      "https://tryhackme.com/room/monikerlink",
+      "Access Denied"
+    ],
+    [
+      "mountaineerlinux",
+      "https://tryhackme.com/room/mountaineerlinux",
+      "Access Denied"
+    ],
+    [
+      "mrrobot",
+      "https://tryhackme.com/room/mrrobot",
+      "Access Denied"
+    ],
+    [
+      "motunui",
+      "https://tryhackme.com/room/motunui",
+      "Access Denied"
+    ],
+    [
+      "musicalstego",
+      "https://tryhackme.com/room/musicalstego",
+      "Access Denied"
+    ],
+    [
+      "mustacchio",
+      "https://tryhackme.com/room/mustacchio",
+      "Access Denied"
+    ],
+    [
+      "nax",
+      "https://tryhackme.com/room/nax",
+      "Access Denied"
+    ],
+    [
+      "nerdherd",
+      "https://tryhackme.com/room/nerdherd",
+      "Access Denied"
+    ],
+    [
+      "nahamstore",
+      "https://tryhackme.com/room/nahamstore",
+      "Access Denied"
+    ],
+    [
+      "networkdiscoverydetection",
+      "https://tryhackme.com/room/networkdiscoverydetection",
+      "Access Denied"
+    ],
+    [
+      "networkingconcepts",
+      "https://tryhackme.com/room/networkingconcepts",
+      "Access Denied"
+    ],
+    [
+      "networksecurityessentials",
+      "https://tryhackme.com/room/networksecurityessentials",
+      "Access Denied"
+    ],
+    [
+      "nextjscve202529927",
+      "https://tryhackme.com/room/nextjscve202529927",
+      "Access Denied"
+    ],
+    [
+      "ninjaskills",
+      "https://tryhackme.com/room/ninjaskills",
+      "Access Denied"
+    ],
+    [
+      "nmap01",
+      "https://tryhackme.com/room/nmap01",
+      "Access Denied"
+    ],
+    [
+      "nosqlinjectiontutorial",
+      "https://tryhackme.com/room/nosqlinjectiontutorial",
+      "Access Denied"
+    ],
+    [
+      "ohsint",
+      "https://tryhackme.com/room/ohsint",
+      "Access Denied"
+    ],
+    [
+      "openvas",
+      "https://tryhackme.com/room/openvas",
+      "Access Denied"
+    ],
+    [
+      "opacity",
+      "https://tryhackme.com/room/opacity",
+      "Access Denied"
+    ],
+    [
+      "openvpn",
+      "https://tryhackme.com/room/openvpn",
+      "Access Denied"
+    ],
+    [
+      "oracle9",
+      "https://tryhackme.com/room/oracle9",
+      "Access Denied"
+    ],
+    [
+      "overlayfs",
+      "https://tryhackme.com/room/overlayfs",
+      "Access Denied"
+    ],
+    [
+      "overpass2hacked",
+      "https://tryhackme.com/room/overpass2hacked",
+      "Access Denied"
+    ],
+    [
+      "overpass",
+      "https://tryhackme.com/room/overpass",
+      "Access Denied"
+    ],
+    [
+      "overpass3hosting",
+      "https://tryhackme.com/room/overpass3hosting",
+      "Access Denied"
+    ],
+    [
+      "owaspbrokenaccesscontrol",
+      "https://tryhackme.com/room/owaspbrokenaccesscontrol",
+      "Access Denied"
+    ],
+    [
+      "owaspjuiceshop",
+      "https://tryhackme.com/room/owaspjuiceshop",
+      "Access Denied"
+    ],
+    [
+      "owaspmutillidae",
+      "https://tryhackme.com/room/owaspmutillidae",
+      "Access Denied"
+    ],
+    [
+      "owasptop10",
+      "https://tryhackme.com/room/owasptop10",
+      "Access Denied"
+    ],
+    [
+      "owasptop102021",
+      "https://tryhackme.com/room/owasptop102021",
+      "Access Denied"
+    ],
+    [
+      "passiverecon",
+      "https://tryhackme.com/room/passiverecon",
+      "Access Denied"
+    ],
+    [
+      "parrotpost",
+      "https://tryhackme.com/room/parrotpost",
+      "Access Denied"
+    ],
+    [
+      "papercut",
+      "https://tryhackme.com/room/papercut",
+      "Access Denied"
+    ],
+    [
+      "paymentcollectors",
+      "https://tryhackme.com/room/paymentcollectors",
+      "Access Denied"
+    ],
+    [
+      "peakhill",
+      "https://tryhackme.com/room/peakhill",
+      "Access Denied"
+    ],
+    [
+      "pentestingfundamentals",
+      "https://tryhackme.com/room/pentestingfundamentals",
+      "Access Denied"
+    ],
+    [
+      "physicalsecurityintro",
+      "https://tryhackme.com/room/physicalsecurityintro",
+      "Access Denied"
+    ],
+    [
+      "phishinghiddeneye",
+      "https://tryhackme.com/room/phishinghiddeneye",
+      "Access Denied"
+    ],
+    [
+      "picklerick",
+      "https://tryhackme.com/room/picklerick",
+      "Access Denied"
+    ],
+    [
+      "polkit",
+      "https://tryhackme.com/room/polkit",
+      "Access Denied"
+    ],
+    [
+      "pokemon",
+      "https://tryhackme.com/room/pokemon",
+      "Access Denied"
+    ],
+    [
+      "postexploit",
+      "https://tryhackme.com/room/postexploit",
+      "Access Denied"
+    ],
+    [
+      "principlesofsecurity",
+      "https://tryhackme.com/room/principlesofsecurity",
+      "Access Denied"
+    ],
+    [
+      "poster",
+      "https://tryhackme.com/room/poster",
+      "Access Denied"
+    ],
+    [
+      "preparation",
+      "https://tryhackme.com/room/preparation",
+      "Access Denied"
+    ],
+    [
+      "prioritise",
+      "https://tryhackme.com/room/prioritise",
+      "Access Denied"
+    ],
+    [
+      "probe",
+      "https://tryhackme.com/room/probe",
+      "Access Denied"
+    ],
+    [
+      "printerhacking101",
+      "https://tryhackme.com/room/printerhacking101",
+      "Access Denied"
+    ],
+    [
+      "profilesroom",
+      "https://tryhackme.com/room/profilesroom",
+      "Access Denied"
+    ],
+    [
+      "psychobreak",
+      "https://tryhackme.com/room/psychobreak",
+      "Access Denied"
+    ],
+    [
+      "publisher",
+      "https://tryhackme.com/room/publisher",
+      "Access Denied"
+    ],
+    [
+      "pylonzf",
+      "https://tryhackme.com/room/pylonzf",
+      "Access Denied"
+    ],
+    [
+      "pyrat",
+      "https://tryhackme.com/room/pyrat",
+      "Access Denied"
+    ],
+    [
+      "rabbitholeqq",
+      "https://tryhackme.com/room/rabbitholeqq",
+      "Access Denied"
+    ],
+    [
+      "pythonplayground",
+      "https://tryhackme.com/room/pythonplayground",
+      "Access Denied"
+    ],
+    [
+      "raceconditions",
+      "https://tryhackme.com/room/raceconditions",
+      "Access Denied"
+    ],
+    [
+      "pythonbasics",
+      "https://tryhackme.com/room/pythonbasics",
+      "Access Denied"
+    ],
+    [
+      "rabbitstore",
+      "https://tryhackme.com/room/rabbitstore",
+      "Access Denied"
+    ],
+    [
+      "ra",
+      "https://tryhackme.com/room/ra",
+      "Access Denied"
+    ],
+    [
+      "racetrackbank",
+      "https://tryhackme.com/room/racetrackbank",
+      "Access Denied"
+    ],
+    [
+      "raz0rblack",
+      "https://tryhackme.com/room/raz0rblack",
+      "Access Denied"
+    ],
+    [
+      "recovery",
+      "https://tryhackme.com/room/recovery",
+      "Access Denied"
+    ],
+    [
+      "redstoneonecarat",
+      "https://tryhackme.com/room/redstoneonecarat",
+      "Access Denied"
+    ],
+    [
+      "registrypersistencedetection",
+      "https://tryhackme.com/room/registrypersistencedetection",
+      "Access Denied"
+    ],
+    [
+      "redisl33t",
+      "https://tryhackme.com/room/redisl33t",
+      "Access Denied"
+    ],
+    [
+      "relevant",
+      "https://tryhackme.com/room/relevant",
+      "Access Denied"
+    ],
+    [
+      "reloaded",
+      "https://tryhackme.com/room/reloaded",
+      "Access Denied"
+    ],
+    [
+      "retro",
+      "https://tryhackme.com/room/retro",
+      "Access Denied"
+    ],
+    [
+      "revenge",
+      "https://tryhackme.com/room/revenge",
+      "Access Denied"
+    ],
+    [
+      "resetui",
+      "https://tryhackme.com/room/resetui",
+      "Access Denied"
+    ],
+    [
+      "reverseengineering",
+      "https://tryhackme.com/room/reverseengineering",
+      "Access Denied"
+    ],
+    [
+      "reverselfiles",
+      "https://tryhackme.com/room/reverselfiles",
+      "Access Denied"
+    ],
+    [
+      "road",
+      "https://tryhackme.com/room/road",
+      "Access Denied"
+    ],
+    [
+      "robots",
+      "https://tryhackme.com/room/robots",
+      "Access Denied"
+    ],
+    [
+      "revilcorp",
+      "https://tryhackme.com/room/revilcorp",
+      "Access Denied"
+    ],
+    [
+      "rfirmware",
+      "https://tryhackme.com/room/rfirmware",
+      "Access Denied"
+    ],
+    [
+      "rocket",
+      "https://tryhackme.com/room/rocket",
+      "Access Denied"
+    ],
+    [
+      "roundcubecve202549113",
+      "https://tryhackme.com/room/roundcubecve202549113",
+      "Access Denied"
+    ],
+    [
+      "rpnessusredux",
+      "https://tryhackme.com/room/rpnessusredux",
+      "Access Denied"
+    ],
+    [
+      "rptmux",
+      "https://tryhackme.com/room/rptmux",
+      "Access Denied"
+    ],
+    [
+      "rrootme",
+      "https://tryhackme.com/room/rrootme",
+      "Access Denied"
+    ],
+    [
+      "rpmetasploit",
+      "https://tryhackme.com/room/rpmetasploit",
+      "Access Denied"
+    ],
+    [
+      "safezone",
+      "https://tryhackme.com/room/safezone",
+      "Access Denied"
+    ],
+    [
+      "rust",
+      "https://tryhackme.com/room/rust",
+      "Access Denied"
+    ],
+    [
+      "sakura",
+      "https://tryhackme.com/room/sakura",
+      "Access Denied"
+    ],
+    [
+      "rustscan",
+      "https://tryhackme.com/room/rustscan",
+      "Access Denied"
+    ],
+    [
+      "searchlightosint",
+      "https://tryhackme.com/room/searchlightosint",
+      "Access Denied"
+    ],
+    [
+      "sdlc",
+      "https://tryhackme.com/room/sdlc",
+      "Access Denied"
+    ],
+    [
+      "searchskills",
+      "https://tryhackme.com/room/searchskills",
+      "Access Denied"
+    ],
+    [
+      "servidae",
+      "https://tryhackme.com/room/servidae",
+      "Access Denied"
+    ],
+    [
+      "securityfootage",
+      "https://tryhackme.com/room/securityfootage",
+      "Access Denied"
+    ],
+    [
+      "securityengineerintro",
+      "https://tryhackme.com/room/securityengineerintro",
+      "Access Denied"
+    ],
+    [
+      "shaker",
+      "https://tryhackme.com/room/shaker",
+      "Access Denied"
+    ],
+    [
+      "shodan",
+      "https://tryhackme.com/room/shodan",
+      "Access Denied"
+    ],
+    [
+      "smol",
+      "https://tryhackme.com/room/smol",
+      "Access Denied"
+    ],
+    [
+      "sessionforensics",
+      "https://tryhackme.com/room/sessionforensics",
+      "Access Denied"
+    ],
+    [
+      "silverplatter",
+      "https://tryhackme.com/room/silverplatter",
+      "Access Denied"
+    ],
+    [
+      "smaggrotto",
+      "https://tryhackme.com/room/smaggrotto",
+      "Access Denied"
+    ],
+    [
+      "snappedphishingline",
+      "https://tryhackme.com/room/snappedphishingline",
+      "Access Denied"
+    ],
+    [
+      "snykcode",
+      "https://tryhackme.com/room/snykcode",
+      "Access Denied"
+    ],
+    [
+      "snykopensource",
+      "https://tryhackme.com/room/snykopensource",
+      "Access Denied"
+    ],
+    [
+      "socfundamentals",
+      "https://tryhackme.com/room/socfundamentals",
+      "Access Denied"
+    ],
+    [
+      "socroleinblueteam",
+      "https://tryhackme.com/room/socroleinblueteam",
+      "Access Denied"
+    ],
+    [
+      "somesint",
+      "https://tryhackme.com/room/somesint",
+      "Access Denied"
+    ],
+    [
+      "socl1alerttriage",
+      "https://tryhackme.com/room/socl1alerttriage",
+      "Access Denied"
+    ],
+    [
+      "solar",
+      "https://tryhackme.com/room/solar",
+      "Access Denied"
+    ],
+    [
+      "socl1alertreporting",
+      "https://tryhackme.com/room/socl1alertreporting",
+      "Access Denied"
+    ],
+    [
+      "splunkexploringspl",
+      "https://tryhackme.com/room/splunkexploringspl",
+      "Access Denied"
+    ],
+    [
+      "source",
+      "https://tryhackme.com/room/source",
+      "Access Denied"
+    ],
+    [
+      "sqhell",
+      "https://tryhackme.com/room/sqhell",
+      "Access Denied"
+    ],
+    [
+      "spring",
+      "https://tryhackme.com/room/spring",
+      "Access Denied"
+    ],
+    [
+      "sqlilab",
+      "https://tryhackme.com/room/sqlilab",
+      "Access Denied"
+    ],
+    [
+      "sqlinjectionlm",
+      "https://tryhackme.com/room/sqlinjectionlm",
+      "Access Denied"
+    ],
+    [
+      "ssrfhr",
+      "https://tryhackme.com/room/ssrfhr",
+      "Access Denied"
+    ],
+    [
+      "squidgameroom",
+      "https://tryhackme.com/room/squidgameroom",
+      "Access Denied"
+    ],
+    [
+      "startup",
+      "https://tryhackme.com/room/startup",
+      "Access Denied"
+    ],
+    [
+      "startingoutincybersec",
+      "https://tryhackme.com/room/startingoutincybersec",
+      "Access Denied"
+    ],
+    [
+      "stuxctf",
+      "https://tryhackme.com/room/stuxctf",
+      "Access Denied"
+    ],
+    [
+      "stealth",
+      "https://tryhackme.com/room/stealth",
+      "Access Denied"
+    ],
+    [
+      "sudovulnsbypass",
+      "https://tryhackme.com/room/sudovulnsbypass",
+      "Access Denied"
+    ],
+    [
+      "sudovulnsbof",
+      "https://tryhackme.com/room/sudovulnsbof",
+      "Access Denied"
+    ],
+    [
+      "supersecrettip",
+      "https://tryhackme.com/room/supersecrettip",
+      "Access Denied"
+    ],
+    [
+      "sudovulnssamedit",
+      "https://tryhackme.com/room/sudovulnssamedit",
+      "Access Denied"
+    ],
+    [
+      "superspamr",
+      "https://tryhackme.com/room/superspamr",
+      "Access Denied"
+    ],
+    [
+      "sustah",
+      "https://tryhackme.com/room/sustah",
+      "Access Denied"
+    ],
+    [
+      "supplychainattacks",
+      "https://tryhackme.com/room/supplychainattacks",
+      "Access Denied"
+    ],
+    [
+      "sweettoothinc",
+      "https://tryhackme.com/room/sweettoothinc",
+      "Access Denied"
+    ],
+    [
+      "teamcw",
+      "https://tryhackme.com/room/teamcw",
+      "Access Denied"
+    ],
+    [
+      "thatstheticket",
+      "https://tryhackme.com/room/thatstheticket",
+      "Access Denied"
+    ],
+    [
+      "theblobblog",
+      "https://tryhackme.com/room/theblobblog",
+      "Access Denied"
+    ],
+    [
+      "thecodcaper",
+      "https://tryhackme.com/room/thecodcaper",
+      "Access Denied"
+    ],
+    [
+      "thegreatescape",
+      "https://tryhackme.com/room/thegreatescape",
+      "Access Denied"
+    ],
+    [
+      "theimpossiblechallenge",
+      "https://tryhackme.com/room/theimpossiblechallenge",
+      "Access Denied"
+    ],
+    [
+      "thefindcommand",
+      "https://tryhackme.com/room/thefindcommand",
+      "Access Denied"
+    ],
+    [
+      "thenewyorkflankees",
+      "https://tryhackme.com/room/thenewyorkflankees",
+      "Access Denied"
+    ],
+    [
+      "thelondonbridge",
+      "https://tryhackme.com/room/thelondonbridge",
+      "Access Denied"
+    ],
+    [
+      "theserverfromhell",
+      "https://tryhackme.com/room/theserverfromhell",
+      "Access Denied"
+    ],
+    [
+      "theseus",
+      "https://tryhackme.com/room/theseus",
+      "Access Denied"
+    ],
+    [
+      "threatemulationintro",
+      "https://tryhackme.com/room/threatemulationintro",
+      "Access Denied"
+    ],
+    [
+      "thestickershop",
+      "https://tryhackme.com/room/thestickershop",
+      "Access Denied"
+    ],
+    [
+      "threathuntingfoothold",
+      "https://tryhackme.com/room/threathuntingfoothold",
+      "Access Denied"
+    ],
+    [
+      "threathuntingwithyara",
+      "https://tryhackme.com/room/threathuntingwithyara",
+      "Access Denied"
+    ],
+    [
+      "threatintelligenceforsoc",
+      "https://tryhackme.com/room/threatintelligenceforsoc",
+      "Access Denied"
+    ],
+    [
+      "tmuxremux",
+      "https://tryhackme.com/room/tmuxremux",
+      "Access Denied"
+    ],
+    [
+      "tickets2",
+      "https://tryhackme.com/room/tickets2",
+      "Access Denied"
+    ],
+    [
+      "tickets1",
+      "https://tryhackme.com/room/tickets1",
+      "Access Denied"
+    ],
+    [
+      "toc2",
+      "https://tryhackme.com/room/toc2",
+      "Access Denied"
+    ],
+    [
+      "tokyoghoul666",
+      "https://tryhackme.com/room/tokyoghoul666",
+      "Access Denied"
+    ],
+    [
+      "tomghost",
+      "https://tryhackme.com/room/tomghost",
+      "Access Denied"
+    ],
+    [
+      "tonythetiger",
+      "https://tryhackme.com/room/tonythetiger",
+      "Access Denied"
+    ],
+    [
+      "torforbeginners",
+      "https://tryhackme.com/room/torforbeginners",
+      "Access Denied"
+    ],
+    [
+      "toolboxvim",
+      "https://tryhackme.com/room/toolboxvim",
+      "Access Denied"
+    ],
+    [
+      "training",
+      "https://tryhackme.com/room/training",
+      "Access Denied"
+    ],
+    [
+      "tshark",
+      "https://tryhackme.com/room/tshark",
+      "Access Denied"
+    ],
+    [
+      "tryhack3mbricksheist",
+      "https://tryhackme.com/room/tryhack3mbricksheist",
+      "Access Denied"
+    ],
+    [
+      "tutorial",
+      "https://tryhackme.com/room/tutorial",
+      "Access Denied"
+    ],
+    [
+      "ultratech1",
+      "https://tryhackme.com/room/ultratech1",
+      "Access Denied"
+    ],
+    [
+      "typosquatters",
+      "https://tryhackme.com/room/typosquatters",
+      "Access Denied"
+    ],
+    [
+      "unattended",
+      "https://tryhackme.com/room/unattended",
+      "Access Denied"
+    ],
+    [
+      "umbrella",
+      "https://tryhackme.com/room/umbrella",
+      "Access Denied"
+    ],
+    [
+      "unbakedpie",
+      "https://tryhackme.com/room/unbakedpie",
+      "Access Denied"
+    ],
+    [
+      "undiscoveredup",
+      "https://tryhackme.com/room/undiscoveredup",
+      "Access Denied"
+    ],
+    [
+      "unstabletwin",
+      "https://tryhackme.com/room/unstabletwin",
+      "Access Denied"
+    ],
+    [
+      "ustoun",
+      "https://tryhackme.com/room/ustoun",
+      "Access Denied"
+    ],
+    [
+      "valleype",
+      "https://tryhackme.com/room/valleype",
+      "Access Denied"
+    ],
+    [
+      "uranium",
+      "https://tryhackme.com/room/uranium",
+      "Access Denied"
+    ],
+    [
+      "volttyphoon",
+      "https://tryhackme.com/room/volttyphoon",
+      "Access Denied"
+    ],
+    [
+      "volatilityessentials",
+      "https://tryhackme.com/room/volatilityessentials",
+      "Access Denied"
+    ],
+    [
+      "vulnnet1",
+      "https://tryhackme.com/room/vulnnet1",
+      "Access Denied"
+    ],
+    [
+      "vulnerabilities101",
+      "https://tryhackme.com/room/vulnerabilities101",
+      "Access Denied"
+    ],
+    [
+      "vulnnetactive",
+      "https://tryhackme.com/room/vulnnetactive",
+      "Access Denied"
+    ],
+    [
+      "vulnnetdotjar",
+      "https://tryhackme.com/room/vulnnetdotjar",
+      "Access Denied"
+    ],
+    [
+      "vulnnetdotpy",
+      "https://tryhackme.com/room/vulnnetdotpy",
+      "Access Denied"
+    ],
+    [
+      "vulnnetroasted",
+      "https://tryhackme.com/room/vulnnetroasted",
+      "Access Denied"
+    ],
+    [
+      "vulnnetnode",
+      "https://tryhackme.com/room/vulnnetnode",
+      "Access Denied"
+    ],
+    [
+      "vulnnetinternal",
+      "https://tryhackme.com/room/vulnnetinternal",
+      "Access Denied"
+    ],
+    [
+      "vulnversity",
+      "https://tryhackme.com/room/vulnversity",
+      "Access Denied"
+    ],
+    [
+      "w1seguy",
+      "https://tryhackme.com/room/w1seguy",
+      "Access Denied"
+    ],
+    [
+      "walkinganapplication",
+      "https://tryhackme.com/room/walkinganapplication",
+      "Access Denied"
+    ],
+    [
+      "weasel",
+      "https://tryhackme.com/room/weasel",
+      "Access Denied"
+    ],
+    [
+      "watcher",
+      "https://tryhackme.com/room/watcher",
+      "Access Denied"
+    ],
+    [
+      "webapplicationbasics",
+      "https://tryhackme.com/room/webapplicationbasics",
+      "Access Denied"
+    ],
+    [
+      "webfundamentals",
+      "https://tryhackme.com/room/webfundamentals",
+      "Access Denied"
+    ],
+    [
+      "webgoat",
+      "https://tryhackme.com/room/webgoat",
+      "Access Denied"
+    ],
+    [
+      "webosint",
+      "https://tryhackme.com/room/webosint",
+      "Access Denied"
+    ],
+    [
+      "websecurityessentials",
+      "https://tryhackme.com/room/websecurityessentials",
+      "Access Denied"
+    ],
+    [
+      "wgelctf",
+      "https://tryhackme.com/room/wgelctf",
+      "Access Denied"
+    ],
+    [
+      "wekorra",
+      "https://tryhackme.com/room/wekorra",
+      "Access Denied"
+    ],
+    [
+      "whatisnetworking",
+      "https://tryhackme.com/room/whatisnetworking",
+      "Access Denied"
+    ],
+    [
+      "whyhackme",
+      "https://tryhackme.com/room/whyhackme",
+      "Access Denied"
+    ],
+    [
+      "whiterose",
+      "https://tryhackme.com/room/whiterose",
+      "Access Denied"
+    ],
+    [
+      "win64assembly",
+      "https://tryhackme.com/room/win64assembly",
+      "Access Denied"
+    ],
+    [
+      "wifihacking101",
+      "https://tryhackme.com/room/wifihacking101",
+      "Access Denied"
+    ],
+    [
+      "winadbasics",
+      "https://tryhackme.com/room/winadbasics",
+      "Access Denied"
+    ],
+    [
+      "willow",
+      "https://tryhackme.com/room/willow",
+      "Access Denied"
+    ],
+    [
+      "windows10privesc",
+      "https://tryhackme.com/room/windows10privesc",
+      "Access Denied"
+    ],
+    [
+      "windowsapplications",
+      "https://tryhackme.com/room/windowsapplications",
+      "Access Denied"
+    ],
+    [
+      "windowscommandline",
+      "https://tryhackme.com/room/windowscommandline",
+      "Access Denied"
+    ],
+    [
+      "windowsfundamentals1xbx",
+      "https://tryhackme.com/room/windowsfundamentals1xbx",
+      "Access Denied"
+    ],
+    [
+      "windowsfundamentals2x0x",
+      "https://tryhackme.com/room/windowsfundamentals2x0x",
+      "Access Denied"
+    ],
+    [
+      "windowsfundamentals3xzx",
+      "https://tryhackme.com/room/windowsfundamentals3xzx",
+      "Access Denied"
+    ],
+    [
+      "windowsprivescarena",
+      "https://tryhackme.com/room/windowsprivescarena",
+      "Access Denied"
+    ],
+    [
+      "wonderland",
+      "https://tryhackme.com/room/wonderland",
+      "Access Denied"
+    ],
+    [
+      "windowsthreatdetection1",
+      "https://tryhackme.com/room/windowsthreatdetection1",
+      "Access Denied"
+    ],
+    [
+      "winincidentsurface",
+      "https://tryhackme.com/room/winincidentsurface",
+      "Access Denied"
+    ],
+    [
+      "windowsloggingforsoc",
+      "https://tryhackme.com/room/windowsloggingforsoc",
+      "Access Denied"
+    ],
+    [
+      "wordpresscve202129447",
+      "https://tryhackme.com/room/wordpresscve202129447",
+      "Access Denied"
+    ],
+    [
+      "writingpentestreports",
+      "https://tryhackme.com/room/writingpentestreports",
+      "Access Denied"
+    ],
+    [
+      "wwbuddy",
+      "https://tryhackme.com/room/wwbuddy",
+      "Access Denied"
+    ],
+    [
+      "x8664arch",
+      "https://tryhackme.com/room/x8664arch",
+      "Access Denied"
+    ],
+    [
+      "xdrintroduction",
+      "https://tryhackme.com/room/xdrintroduction",
+      "Access Denied"
+    ],
+    [
+      "yearofthedog",
+      "https://tryhackme.com/room/yearofthedog",
+      "Access Denied"
+    ],
+    [
+      "yearofthepig",
+      "https://tryhackme.com/room/yearofthepig",
+      "Access Denied"
+    ],
+    [
+      "yearofthejellyfish",
+      "https://tryhackme.com/room/yearofthejellyfish",
+      "Access Denied"
+    ],
+    [
+      "yearoftheowl",
+      "https://tryhackme.com/room/yearoftheowl",
+      "Access Denied"
+    ],
+    [
+      "yotf",
+      "https://tryhackme.com/room/yotf",
+      "Access Denied"
+    ],
+    [
+      "yueiua",
+      "https://tryhackme.com/room/yueiua",
+      "Access Denied"
+    ],
+    [
+      "yearoftherabbit",
+      "https://tryhackme.com/room/yearoftherabbit",
+      "Access Denied"
+    ]
+  ],
+  "summary": {
+    "free_count": 0,
+    "unavailable_count": 0,
+    "premium_likely_count": 0,
+    "errors_count": 544
+  }
+}
