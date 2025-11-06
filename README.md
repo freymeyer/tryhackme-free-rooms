@@ -240,7 +240,7 @@ In case you are interested in playing to win, here is something for you: [Hack2W
 
 ## Forensics
 
-- [ ] [TryHackMe | Linux Threat Detection 1](https://tryhackme.com/room/linuxthreatdetection1)
+- [x] [TryHackMe | Linux Threat Detection 1](https://tryhackme.com/room/linuxthreatdetection1)
 - [ ] [TryHackMe | AppSec IR](https://tryhackme.com/room/appsecir)
 - [ ] [TryHackMe | Linux Logging for SOC](https://tryhackme.com/room/linuxloggingforsoc)
 - [ ] [TryHackMe | SOC Role in Blue Team](https://tryhackme.com/room/socroleinblueteam)
@@ -381,7 +381,7 @@ In case you are interested in playing to win, here is something for you: [Hack2W
 - [ ] [TryHackMe | Whiterose](https://tryhackme.com/r/room/whiterose)
 - [ ] [TryHackMe | Pyrat](https://tryhackme.com/r/room/pyrat)
 - [ ] [TryHackMe | Cheese CTF](https://tryhackme.com/r/room/cheesectfv10)
-- [ ] [TryHackMe | U.A. High School](https://tryhackme.com/r/room/yueiua)
+- [x] [TryHackMe | U.A. High School](https://tryhackme.com/r/room/yueiua)
 - [ ] [TryHackMe | Joomify](https://tryhackme.com/r/room/joomify)
 - [ ] [TryHackMe | Critical](https://tryhackme.com/r/room/critical)
 - [ ] [TryHackMe | Publisher](https://tryhackme.com/r/room/publisher)
