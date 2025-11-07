@@ -468,7 +468,7 @@ In case you are interested in playing to win, here is something for you: [Hack2W
 - [ ] [TryHackMe | Atlas](https://tryhackme.com/room/atlas)
 - [ ] [TryHackMe | VulnNet: Roasted](https://tryhackme.com/room/vulnnetroasted)
 - [ ] [TryHackMe | Cat Pictures](https://tryhackme.com/room/catpictures)
-- [ ] [TryHackMe | Mustacchio](https://tryhackme.com/room/mustacchio)
+- [x] [TryHackMe | Mustacchio](https://tryhackme.com/room/mustacchio)
 
 ## Medium CTF
 
