@@ -148,6 +148,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Networking
 
+- [ ] [TryHackMe | Network Traffic Basics](https://tryhackme.com/room/networktrafficbasics)
 - [ ] [TryHackMe | Network Security Essentials](https://tryhackme.com/room/networksecurityessentials)
 - [ ] [TryHackMe | Network Discovery Detection](https://tryhackme.com/room/networkdiscoverydetection)
 - [ ] [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
@@ -337,6 +338,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 ## AI
 
 - [ ] [TryHackMe | AI/ML Security Threats](https://tryhackme.com/room/aimlsecuritythreats)
+- [ ] [TryHackMe | Input Manipulation & Prompt Injection](https://tryhackme.com/room/inputmanipulationpromptinjection)
 
 ## Windows
 
@@ -380,6 +382,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Easy CTF
 
+- [ ] [TryHackMe | The Phishing Pond](https://tryhackme.com/room/phishingpond)
 - [ ] [TryHackMe | Oracle 9](https://tryhackme.com/room/oracle9)
 - [ ] [TryHackMe | Soupedecode 01](tryhackme.com/room/soupedecode01)
 - [ ] [TryHackMe | Oracle 9](https://tryhackme.com/room/oracle9)
@@ -595,6 +598,8 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Hard CTF
 
+- [ ] [TryHackMe | Elevating Movement](https://tryhackme.com/room/elevatingmovement)
+- [ ] [TryHackMe | Initial Access Pot](https://tryhackme.com/room/initialaccesspot)
 - [ ] [TryHackMe | Contrabando](https://tryhackme.com/room/contrabando)
 - [ ] [TryHackMe | Event Horizon](https://tryhackme.com/room/eventhorizonroom)
 - [ ] [TryHackMe | Contrabando](https://tryhackme.com/room/contrabando)
