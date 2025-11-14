@@ -1,13 +1,11 @@
 # TryHackMe Free Rooms( _they cost $0.00000_ )
 
-Hey people, here's a list of **390+ Free TryHackMe rooms** to start learning hacking. I have arranged & compiled them according to different topics so that you can start hacking right now and also!
+Here's a list of **390+ Free TryHackMe rooms** to start learning hacking. I have arranged & compiled them according to different topics so that you can start hacking right now and also!
 All the rooms herein, are absolutely free. ATTACK!!
 
 ## NEWS
 
-<!-- Hey cyber-hard guys, no news for now. Just go hard at your grind each second of the day -->
-
-In case you are interested in playing to win, here is something for you: [Hack2Win: How you can grab extra tickets](https://tryhackme.com/room/hack2win). If you do not have a TryHackMe account yet, signup [here](https://tryhackme.com/invite/FreyM).
+If you do not have a TryHackMe account yet, signup [here](https://tryhackme.com/invite/FreyM).
 
 ## Table of Contents
 
@@ -47,7 +45,7 @@ In case you are interested in playing to win, here is something for you: [Hack2W
 
 ## Intro Rooms
 
-- [ ] [TryHackMe | Bypass Really Simple Security](https://tryhackme.com/room/bypassreallysimplesecurity)
+- [x] [TryHackMe | Bypass Really Simple Security](https://tryhackme.com/room/bypassreallysimplesecurity)
 - [ ] [TryHackMe | Web Application Basics](https://tryhackme.com/r/room/webapplicationbasics)
 - [ ] [TryHackMe | Cryptography Basics](https://tryhackme.com/r/room/cryptographybasics)
 - [ ] [TryHackMe | CyberChef: The Basics](https://tryhackme.com/r/room/cyberchefbasics)
@@ -78,18 +76,18 @@ In case you are interested in playing to win, here is something for you: [Hack2W
 
 ## Linux Fundamentals
 
-- [ ] [TryHackMe | Modules](https://tryhackme.com/room/linuxmodules)
-- [ ] [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
-- [ ] [Basics of Linux](https://linuxjourney.com/) -- added this since the fundamentals rooms were all made premium.
+- [x] [TryHackMe | Modules](https://tryhackme.com/room/linuxmodules)
+- [x] [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
+- [x] [Basics of Linux](https://linuxjourney.com/) -- added this since the fundamentals rooms were all made premium.
       In case you need deeper study into Linux read follow these:
 - [A very deep dive book](https://edu.anarcho-copy.org/Against%20Security%20-%20Self%20Security/linux-bible-christopher-negus-10th.pdf) -- It's around 900 pages
 - [A reddit community where Linux challenges are posted daily](https://www.reddit.com/r/linuxupskillchallenge/) -- More like practice or keeping in loop
 
 ## Windows Fundamentals
 
-- [ ] [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
-- [ ] [TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
-- [ ] [TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
+- [x] [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
+- [x] [TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
+- [x] [TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
 
 ## Basics Rooms
 
