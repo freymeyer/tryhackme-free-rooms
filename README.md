@@ -92,7 +92,7 @@ If you do not have a TryHackMe account yet, signup [here](https://tryhackme.com/
 ## Basics Rooms
 
 - [ ] [TryHackMe | Writing Pentest Reports](https://tryhackme.com/room/writingpentestreports)
-- [ ] [TryHackMe | Bypass Really Simple Security](https://tryhackme.com/room/bypassreallysimplesecurity)
+- [x] [TryHackMe | Bypass Really Simple Security](https://tryhackme.com/room/bypassreallysimplesecurity)
 - [ ] [TryHackMe | Insecure Randomness](https://tryhackme.com/room/insecurerandomness)
 - [ ] [TryHackMe | Hypervisor Internals](https://tryhackme.com/r/room/hypervisorinternals)
 - [ ] [TryHackMe | Splunk: Exploring SPL](https://tryhackme.com/room/splunkexploringspl)
@@ -125,7 +125,7 @@ If you do not have a TryHackMe account yet, signup [here](https://tryhackme.com/
 ## Scripting
 
 - [ ] [TryHackMe | Custom Tooling Using Python](https://tryhackme.com/room/customtoolingpython)
-- [ ] [TryHackMe | Python Basics](https://tryhackme.com/room/pythonbasics)
+- [x] [TryHackMe | Python Basics](https://tryhackme.com/room/pythonbasics)
 - [ ] [TryHackMe | Python Playground](https://tryhackme.com/room/pythonplayground)
 - [ ] [TryHackMe | Intro PoC Scripting](https://tryhackme.com/room/intropocscripting)
 - [ ] [TryHackMe | Peak Hill](https://tryhackme.com/room/peakhill)
@@ -280,10 +280,10 @@ If you do not have a TryHackMe account yet, signup [here](https://tryhackme.com/
 ## Reverse Engineering
 
 - [ ] [TryHackMe | Intro to x86-64](https://tryhackme.com/room/introtox8664)
-- [ ] [TryHackMe | Windows x64 Assembly](https://tryhackme.com/room/win64assembly)
+- [x] [TryHackMe | Windows x64 Assembly](https://tryhackme.com/room/win64assembly)
 - [ ] [TryHackMe | Reverse Engineering](https://tryhackme.com/room/reverseengineering)
-- [ ] [TryHackMe | Reversing ELF](https://tryhackme.com/room/reverselfiles)
-- [ ] [TryHackMe | JVM Reverse Engineering](https://tryhackme.com/room/jvmreverseengineering)
+- [x] [TryHackMe | Reversing ELF](https://tryhackme.com/room/reverselfiles)
+- [x] [TryHackMe | JVM Reverse Engineering](https://tryhackme.com/room/jvmreverseengineering)
 - [ ] [TryHackMe | CC: Radare2](https://tryhackme.com/room/ccradare2)
 - [ ] [TryHackMe | CC: Ghidra](https://tryhackme.com/room/ccghidra)
 - [ ] [TryHackMe | Aster](https://tryhackme.com/room/aster)
