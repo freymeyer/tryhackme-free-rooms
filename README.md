@@ -9,9 +9,9 @@ All the rooms herein, are absolutely free. ATTACK!!
 
 ## NEWS
 
-<!-- Hey cyber-hard guys, no news for now. Just go hard at your grind each second of the day -->
+Hey cyber-hard guys, The advent of cyber 2025 is on. You can visit [TryHackMe](https://tryhackme.com/invite/winterrdog).
 
-In case you are interested in playing to win, here is something for you: [Hack2Win: How you can grab extra tickets](https://tryhackme.com/room/hack2win). If you do not have a TryHackMe account yet, signup [here](https://tryhackme.com/invite/winterrdog).
+<!-- In case you are interested in playing to win, here is something for you: [Hack2Win: How you can grab extra tickets](https://tryhackme.com/room/hack2win). If you do not have a TryHackMe account yet, signup [here](https://tryhackme.com/invite/winterrdog) -->
 
 ## HOW YOU CAN SUPPORT
 
@@ -210,6 +210,10 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Web
 
+- [ ] [TryHackMe | OWASP Top 10 2025: IAAA Failures](https://tryhackme.com/room/owasptopten2025one)
+- [ ] [TryHackMe | OWASP Top 10 2025: Application Design Flaws](https://tryhackme.com/room/owasptopten2025two)
+- [ ] [TryHackMe | OWASP Top 10 2025: Insecure Data Handling](https://tryhackme.com/room/owasptopten2025three)
+- [ ] [TryHackMe | WAF: Introduction](https://tryhackme.com/room/wafintroduction)
 - [ ] [TryHackMe | Chaining Vulnerabilities](https://tryhackme.com/room/chainingvulnerabilitiesZp)
 - [ ] [TryHackMe | Detecting Web Attacks](https://tryhackme.com/room/detectingwebattacks)
 - [ ] [TryHackMe | Web Security Essentials](https://tryhackme.com/room/websecurityessentials)
@@ -653,6 +657,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Misc
 
+- [ ] [TryHackMe | Django: CVE-2025-64459](https://tryhackme.com/room/djangocve202564459)
 - [ ] [TryHackMe | Roundcube: CVE-2025-49113](https://tryhackme.com/room/roundcubecve202549113)
 - [ ] [TryHackMe | Erlang/OTP SSH: CVE_2025_32433](https://tryhackme.com/room/erlangotpsshcve202532433)
 - [ ] [TryHackMe | Next.js: CVE-2025-29927](https://tryhackme.com/room/nextjscve202529927)
@@ -702,10 +707,10 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [ ] [TryHackMe | The find command](https://tryhackme.com/room/thefindcommand)
 
 ## Special Events
-
+   
 - [ ] [TryHackMe | 25 Days of Cyber Security](https://tryhackme.com/room/learncyberin25days)
-- [ ] [TryHackMe | Advent of Cyber 1 [2019]](https://tryhackme.com/room/25daysofchristmas)
-- [ ] [TryHackMe | Advent of Cyber 2 [2020]](https://tryhackme.com/room/adventofcyber2)
+- [ ] [TryHackMe | Advent of Cyber 1 2019](https://tryhackme.com/room/25daysofchristmas)
+- [ ] [TryHackMe | Advent of Cyber 2 2020](https://tryhackme.com/room/adventofcyber2)
 - [ ] [TryHackMe | Advent of Cyber 3 (2021)](https://tryhackme.com/room/adventofcyber3)
 - [ ] [TryHackMe | Advent of Cyber 2022](https://tryhackme.com/room/adventofcyber4)
 - [ ] [TryHackMe | Advent of Cyber 2023](https://tryhackme.com/room/adventofcyber2023)
@@ -715,3 +720,14 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [ ] [TryHackMe | Hacker of the Hill #1](https://tryhackme.com/room/hackerofthehill)
 - [ ] [TryHackMe | Learn and win prizes](https://tryhackme.com/room/tickets1)
 - [ ] [TryHackMe | Learn and win prizes #2](https://tryhackme.com/room/tickets2)
+
+<details>
+  <summary>Advent of Cyber 2025 - click to expand (This time it was broken down into multiple rooms instead of one, like in the past)</summary>
+
+  - [ ] [TryHackMe | Advent of Cyber Prep Track](https://tryhackme.com/room/adventofcyberpreptrack)
+- [ ] [TryHackMe | The Case: Seven Minutes on the Seine](https://tryhackme.com/room/thecasesevenminutesontheseine)
+- [ ] [TryHackMe | Linux CLI - Shells Bells](https://tryhackme.com/room/linuxcli-aoc2025-o1fpqkvxti)
+- [ ] [TryHackMe | The Great Disappearing Act](https://tryhackme.com/room/sq1-aoc2025-FzPnrt2SAu)
+- [ ] [TryHackMe | Phishing - Merry Clickmas](https://tryhackme.com/room/phishing-aoc2025-h2tkye9fzU)
+- [ ] [TryHackMe | Splunk Basics - Did you SIEM?](https://tryhackme.com/room/splunkforloganalysis-aoc2025-x8fj2k4rqp)
+</details>
