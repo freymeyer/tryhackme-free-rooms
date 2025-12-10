@@ -53,7 +53,7 @@ If you do not have a TryHackMe account yet, signup [here](https://tryhackme.com/
 - [x] [TryHackMe | Networking Concepts](https://tryhackme.com/r/room/networkingconcepts)
 - [x] [TryHackMe | Search Skills](https://tryhackme.com/r/room/searchskills)
 - [x] [TryHackMe | Windows Command Line](https://tryhackme.com/r/room/windowscommandline)
-- [ ] [TryHackMe | Hosted Hypervisors](https://tryhackme.com/r/room/hostedhypervisors)
+- [x] [TryHackMe | Hosted Hypervisors](https://tryhackme.com/r/room/hostedhypervisors)
 - [x] [TryHackMe | Enumeration & Brute Force](https://tryhackme.com/r/room/enumerationbruteforce)
 - [ ] [TryHackMe | Introduction to CryptOps](https://tryhackme.com/r/room/introductiontocryptops)
 - [ ] [TryHackMe | Linux File System Analysis](https://tryhackme.com/room/linuxfilesystemanalysis)
@@ -63,7 +63,7 @@ If you do not have a TryHackMe account yet, signup [here](https://tryhackme.com/
 - [x] [TryHackMe | Intro to Logs](https://tryhackme.com/room/introtologs)
 - [ ] [TryHackMe | Intro to Threat Emulation](https://tryhackme.com/room/threatemulationintro)
 - [ ] [TryHackMe | Security Engineer Intro](https://tryhackme.com/room/securityengineerintro)
-- [ ] [TryHackMe | Intro to Docker](https://tryhackme.com/room/introtodockerk8pdqk)
+- [x] [TryHackMe | Intro to Docker](https://tryhackme.com/room/introtodockerk8pdqk)
 - [ ] [TryHackMe | SDLC](https://tryhackme.com/room/sdlc)
 - [x] [TryHackMe | Welcome](https://tryhackme.com/room/hello)
 - [x] [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
@@ -72,7 +72,7 @@ If you do not have a TryHackMe account yet, signup [here](https://tryhackme.com/
 - [x] [TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
 - [x] [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
 - [ ] [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
-- [ ] [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
+- [x] [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
 
 ## Linux Fundamentals
 
