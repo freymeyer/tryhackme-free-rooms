@@ -148,6 +148,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Networking
 
+- [ ] [TryHackme | Network Discovery - Scan-ta Clause](https://tryhackme.com/room/networkservices-aoc2025-jnsoqbxgky)
 - [ ] [TryHackMe | Network Traffic Basics](https://tryhackme.com/room/networktrafficbasics)
 - [ ] [TryHackMe | Network Security Essentials](https://tryhackme.com/room/networksecurityessentials)
 - [ ] [TryHackMe | Network Discovery Detection](https://tryhackme.com/room/networkdiscoverydetection)
@@ -183,6 +184,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Container Security
 
+- [ ] [TryHackme | Containers - DoorDasher's Demise](https://tryhackme.com/room/container-security-aoc2025-z0x3v6n9m2)
 - [ ] [TryHackMe | K8s Runtime Security](https://tryhackme.com/r/room/k8sruntimesecurity)
 - [ ] [TryHackMe | K8s Best Security Practices](https://tryhackme.com/r/room/k8sbestsecuritypractices)
 - [ ] [TryHackMe | Cluster Hardening](https://tryhackme.com/r/room/clusterhardening)
@@ -210,6 +212,14 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Web
 
+- [ ] [TryHackme | CyberChef - Hoperation Save McSkidy](https://tryhackme.com/room/encoding-decoding-aoc2025-s1a4z7x0c3)
+- [ ] [TryHackme | IDOR - Santa’s Little IDOR](https://tryhackme.com/room/idor-aoc2025-zl6MywQid9)
+- [ ] [TryHackme | AWS Security - S3cret Santa](https://tryhackme.com/room/cloudenum-aoc2025-y4u7i0o3p6)
+- [ ] [TryHackme | React2Shell: CVE-2025-55182](https://tryhackme.com/room/react2shellcve202555182)
+- [ ] [TryHackme | Race Conditions - Toy to The World](https://tryhackme.com/room/race-conditions-aoc2025-d7f0g3h6j9)
+- [ ] [TryHackme | n8n: CVE-2025-68613](https://tryhackme.com/room/n8ncve202568613)
+- [ ] [TryHackme | Exploitation with cURL - Hoperation Eggsploit](https://tryhackme.com/room/webhackingusingcurl-aoc2025-w8q1a4s7d0)
+- [ ] [TryHackme | XSS - Merry XSSMas](https://tryhackme.com/room/xss-aoc2025-c5j8b1m4t6)
 - [ ] [TryHackMe | OWASP Top 10 2025: IAAA Failures](https://tryhackme.com/room/owasptopten2025one)
 - [ ] [TryHackMe | OWASP Top 10 2025: Application Design Flaws](https://tryhackme.com/room/owasptopten2025two)
 - [ ] [TryHackMe | OWASP Top 10 2025: Insecure Data Handling](https://tryhackme.com/room/owasptopten2025three)
@@ -255,7 +265,10 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [ ] [TryHackMe | Android Hacking 101](https://tryhackme.com/room/androidhacking101)
 
 ## Forensics
-
+- [ ] [TryHackme | Forensics - Registry Furensics](https://tryhackme.com/room/registry-forensics-aoc2025-h6k9j2l5p8)
+- [ ] [TryHackme | Phishing - Phishmas Greetings](https://tryhackme.com/room/spottingphishing-aoc2025-r2g4f6s8l0)
+- [ ] [TryHackme | YARA Rules - YARA mean one!](https://tryhackme.com/room/yara-aoc2025-q9w1e3y5u7)
+- [ ] [TryHackme | Web Attack Forensics - Drone Alone]()
 - [ ] [TryHackMe | Linux Threat Detection 1](https://tryhackme.com/room/linuxthreatdetection1)
 - [ ] [TryHackMe | AppSec IR](https://tryhackme.com/room/appsecir)
 - [ ] [TryHackMe | Linux Logging for SOC](https://tryhackme.com/room/linuxloggingforsoc)
@@ -310,6 +323,11 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Malware Analysis
 
+- [ ] [TryHackme | C2 Detection - Command & Carol](https://tryhackme.com/room/detecting-c2-with-rita-aoc2025-m9n2b5v8c1)
+- [ ] [TryHackme | Malware Analysis - Egg-xecutable](https://tryhackme.com/room/malware-sandbox-aoc2025-SD1zn4fZQt)
+- [ ] [TryHackme | SOC Alert Triaging - Tinsel Triage](https://tryhackme.com/room/azuresentinel-aoc2025-a7d3h9k0p2)
+- [ ] [TryHackme | Obfuscation - The Egg Shell File](https://tryhackme.com/room/obfuscation-aoc2025-e5r8t2y6u9)
+- [ ] [TryHackme | Malware Analysis - Malhare.exe](https://tryhackme.com/room/htapowershell-aoc2025-p2l5k8j1h4)
 - [ ] [TryHackMe | Introduction to EDR](https://tryhackme.com/room/introductiontoedrs)
 - [ ] [TryHackMe | Malware Classification](https://tryhackme.com/room/malwareclassification)
 - [ ] [TryHackMe | File and Hash Threat Intel](https://tryhackme.com/room/fileandhashthreatintel)
@@ -341,6 +359,8 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## AI
 
+- [ ] [TryHackme | Prompt Injection - Sched-yule conflict](https://tryhackme.com/room/promptinjection-aoc2025-sxUMnCkvLO)
+- [ ] [TryHackme | AI in Security - old sAInt nick](https://tryhackme.com/room/AIforcyber-aoc2025-y9wWQ1zRgB)
 - [ ] [TryHackMe | AI/ML Security Threats](https://tryhackme.com/room/aimlsecuritythreats)
 - [ ] [TryHackMe | Input Manipulation & Prompt Injection](https://tryhackme.com/room/inputmanipulationpromptinjection)
 
@@ -657,6 +677,8 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Misc
 
+- [ ] [TryHackme | ICS/Modbus - Claus for Concern](https://tryhackme.com/room/ICS-modbus-aoc2025-g3m6n9b1v4)
+- [ ] [TryHackme | Passwords - A Cracking Christmas](https://tryhackme.com/room/attacks-on-ecrypted-files-aoc2025-asdfghj123)
 - [ ] [TryHackMe | Django: CVE-2025-64459](https://tryhackme.com/room/djangocve202564459)
 - [ ] [TryHackMe | Roundcube: CVE-2025-49113](https://tryhackme.com/room/roundcubecve202549113)
 - [ ] [TryHackMe | Erlang/OTP SSH: CVE_2025_32433](https://tryhackme.com/room/erlangotpsshcve202532433)
