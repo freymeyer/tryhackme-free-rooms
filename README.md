@@ -9,7 +9,7 @@ All the rooms herein, are absolutely free. ATTACK!!
 
 ## NEWS
 
-Hey cyber-hard guys, The advent of cyber 2025 is on. You can visit [TryHackMe](https://tryhackme.com/invite/winterrdog).
+Hey cyber-hard guys, The advent of cyber 2025 is on. You can visit [TryHackMe](https://tryhackme.com/invite/FreyM).
 
 <!-- In case you are interested in playing to win, here is something for you: [Hack2Win: How you can grab extra tickets](https://tryhackme.com/room/hack2win). If you do not have a TryHackMe account yet, signup [here](https://tryhackme.com/invite/winterrdog) -->
 
