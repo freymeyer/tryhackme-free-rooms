@@ -124,16 +124,16 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Recon
 
-- [ ] [TryHackMe | Cyber Kill Chain](https://tryhackme.com/room/cyberkillchain)
-- [ ] [TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
-- [ ] [TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon)
-- [ ] [TryHackMe | Content Discovery](https://tryhackme.com/room/contentdiscovery)
-- [ ] [TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)
-- [ ] [TryHackMe | Shodan.io](https://tryhackme.com/room/shodan)
-- [ ] [TryHackMe | Google Dorking](https://tryhackme.com/room/googledorking)
-- [ ] [TryHackMe | WebOSINT](https://tryhackme.com/room/webosint)
-- [ ] [TryHackMe | Sakura Room](https://tryhackme.com/room/sakura)
-- [ ] [TryHackMe | Searchlight - IMINT](https://tryhackme.com/room/searchlightosint)
+- [x] [TryHackMe | Cyber Kill Chain](https://tryhackme.com/room/cyberkillchain)
+- [x] [TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
+- [x] [TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon)
+- [x] [TryHackMe | Content Discovery](https://tryhackme.com/room/contentdiscovery)
+- [x] [TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)
+- [x] [TryHackMe | Shodan.io](https://tryhackme.com/room/shodan)
+- [x] [TryHackMe | Google Dorking](https://tryhackme.com/room/googledorking)
+- [x] [TryHackMe | WebOSINT](https://tryhackme.com/room/webosint)
+- [x] [TryHackMe | Sakura Room](https://tryhackme.com/room/sakura)
+- [x] [TryHackMe | Searchlight - IMINT](https://tryhackme.com/room/searchlightosint)
 
 ## Scripting
 
