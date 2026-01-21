@@ -148,17 +148,17 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Networking
 
-- [ ] [TryHackme | Network Discovery - Scan-ta Clause](https://tryhackme.com/room/networkservices-aoc2025-jnsoqbxgky)
-- [ ] [TryHackMe | Network Traffic Basics](https://tryhackme.com/room/networktrafficbasics)
-- [ ] [TryHackMe | Network Security Essentials](https://tryhackme.com/room/networksecurityessentials)
-- [ ] [TryHackMe | Network Discovery Detection](https://tryhackme.com/room/networkdiscoverydetection)
-- [ ] [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
-- [ ] [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
-- [ ] [TryHackMe | Networking](https://tryhackme.com/room/bpnetworking)
+- [x] [TryHackme | Network Discovery - Scan-ta Clause](https://tryhackme.com/room/networkservices-aoc2025-jnsoqbxgky)
+- [x] [TryHackMe | Network Traffic Basics](https://tryhackme.com/room/networktrafficbasics)
+- [x] [TryHackMe | Network Security Essentials](https://tryhackme.com/room/networksecurityessentials)
+- [x] [TryHackMe | Network Discovery Detection](https://tryhackme.com/room/networkdiscoverydetection)
+- [x] [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
+- [x] [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
+- [x] [TryHackMe | Networking](https://tryhackme.com/room/bpnetworking)
 - ~~[TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan)~~ -- TryHackMe made this room **PREMIUM**. Try using [this deep](https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:the-internet) Khan Academy resource, it's excellent trust me!
-- [ ] [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
-- [ ] [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
-- [ ] [TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
+- [x] [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
+- [x] [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
+- [x] [TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
 
 ## Tooling
 
